@@ -24,6 +24,11 @@
       "sha256": "fcad14db8476a5dfbd7c65c5228bd61d22fe8b99c5dfdde3b54193b8b01d5e39"
     },
     {
+      "path": "assets/goodwill-preview-translation.png",
+      "bytes": 218463,
+      "sha256": "5b7d13c3f33469e20f2cae11f4e28008fac490dfae512fbb3450fab47283f6cf"
+    },
+    {
       "path": "assets/isekai-balanced.png",
       "bytes": 294792,
       "sha256": "a663db39466440547be7c9efc6e9973786a69a69b7b444d3ff319c40330be43b"
@@ -42,6 +47,11 @@
       "path": "assets/post-isekai-collection.png",
       "bytes": 154326,
       "sha256": "46024dd207db1b93fb450c0c8e52f315e0eb48e5ac18323c79f685c837c1e422"
+    },
+    {
+      "path": "assets/qualitybuilder-translation.png",
+      "bytes": 171435,
+      "sha256": "58e9568cc02670e9d72f2f8208f88d2328470991636aa299ef4e84bab4dc2c95"
     },
     {
       "path": "assets/rimsaves-translation.png",
@@ -89,9 +99,14 @@
       "sha256": "f8e516612047d223c829a62ab3776d8a4f485afb0b9be6a81ecb021ef86de63a"
     },
     {
+      "path": "assets/simple-camera-setting-translation.png",
+      "bytes": 234336,
+      "sha256": "8ca93bdbfdec19d23f25909652a9dc880b036cdb317fd1f9bdbbcd10327c0b50"
+    },
+    {
       "path": "assets/SOURCES.md",
-      "bytes": 1830,
-      "sha256": "66c6a7c5810e30b03fd70422ee05729859f1b21acefe4b3081d59a5d002f7d5e"
+      "bytes": 2859,
+      "sha256": "3b2ad32a9ddba5bb09c584adb4f274438f8a6a94d090a3cf9cf22836cf1786ee"
     },
     {
       "path": "assets/star-sky-avatar.png",
@@ -127,6 +142,11 @@
       "path": "assets/tier-star.png",
       "bytes": 77121,
       "sha256": "d77373094483a4f74263fa1f31aef4023351d90420d382308567f53d6ccb5ad1"
+    },
+    {
+      "path": "assets/visible-raid-points-translation.png",
+      "bytes": 322082,
+      "sha256": "4087f04ef66999879368519b577d642571a105e70de511d8dfd00806f139c7f0"
     },
     {
       "path": "README.md",
