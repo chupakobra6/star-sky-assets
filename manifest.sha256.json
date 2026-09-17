@@ -14,9 +14,19 @@
       "sha256": "e4c9b87ecdddcd7f3b5643c170083ce587af52da8f8a910723c9b7c0ddbde66f"
     },
     {
+      "path": "assets/button-support-ru.png",
+      "bytes": 37845,
+      "sha256": "9d0c6eefcb441dfbc271bad6289d163a5ea1cc8adba83c0aba04cd3acf0f71ac"
+    },
+    {
       "path": "assets/button-support.png",
       "bytes": 36677,
       "sha256": "f0b4b148b25fd5b52857d28893d549afd15bbf7d3f72af6198afce95be55d1a6"
+    },
+    {
+      "path": "assets/button-workshop-ru.png",
+      "bytes": 33968,
+      "sha256": "f5b672ae8e975a604dacc0b96afaa7b6a012370e6f30fc676ec26db96456cd74"
     },
     {
       "path": "assets/button-workshop.png",
