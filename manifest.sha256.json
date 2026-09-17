@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "repository": "chupakobra6/star-sky-mods-assets",
+  "mods": [],
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/boosty-mods.png",
+      "bytes": 52028,
+      "sha256": "d9f1c39c09b121dfabc374dbc8cdcca36132aa13a072720521c7149028a4f648"
+    },
+    {
+      "path": "assets/boosty-support.png",
+      "bytes": 54800,
+      "sha256": "e1161a112001d747882e40b9f070e7d0fd4a82b2713cf6dd6b3b7dfa7951b132"
+    },
+    {
+      "path": "assets/button-support.png",
+      "bytes": 38766,
+      "sha256": "e99c8ae308c73ef500b3a72b3a86a27257317fde4405f7e6b710a99ed26285ae"
+    },
+    {
+      "path": "assets/button-workshop.png",
+      "bytes": 37985,
+      "sha256": "d064ea72c54308005ed5502d5bef2ae9c27a218c27c84d507128945dc3fa81cf"
+    },
+    {
+      "path": "assets/isekai-balanced.png",
+      "bytes": 312009,
+      "sha256": "c2125ca5f51cf259280ec3db01490c04439661be16afd97c3a766bf7472d43c6"
+    },
+    {
+      "path": "assets/isekai-camera.png",
+      "bytes": 310352,
+      "sha256": "0292ef55a9b6d57351e1132b8e1651d0c63f8b01e5a25f15d4426a6ff1a3ef8d"
+    },
+    {
+      "path": "assets/isekai-quests.png",
+      "bytes": 313273,
+      "sha256": "9787d6d0671778576cfa97b3111c0c64a3cc2076fbdc6d623501c29bfd2b1bed"
+    },
+    {
+      "path": "assets/rimsaves-translation.png",
+      "bytes": 101610,
+      "sha256": "2d5c592f2a9350769c0331a2f98175ed51732f20dd2a5b60abe5111a9671518b"
+    },
+    {
+      "path": "assets/section-compatibility-ru.png",
+      "bytes": 31163,
+      "sha256": "626eeab73b3e21ea44ea82e3b0cbae867b2b605a33f517e52a82d81649cba108"
+    },
+    {
+      "path": "assets/section-compatibility.png",
+      "bytes": 29202,
+      "sha256": "df3b4da9a131568f7d3b7e2841a25446bcd5ed05f23026bf45e9873a3246f649"
+    },
+    {
+      "path": "assets/section-features-ru.png",
+      "bytes": 31345,
+      "sha256": "c434a7d480cb221988c2a0a808a9a9eb5f1df71c1121b994bb03d07332304d20"
+    },
+    {
+      "path": "assets/section-features.png",
+      "bytes": 27723,
+      "sha256": "ef11455f62695d12fb0c08877d0bb5e55d802a54bc2b4e1d4e546d30d7448dc6"
+    },
+    {
+      "path": "assets/section-feedback-ru.png",
+      "bytes": 31074,
+      "sha256": "b4675668676cad1528cdbba6da516f8376dcbdccd074f5c98775382c9b247914"
+    },
+    {
+      "path": "assets/section-feedback.png",
+      "bytes": 27871,
+      "sha256": "7ac76c7f8bc7c12e3ef4d2e09d589e56a62d5c5a67ec109e33a33d6d708d5f53"
+    },
+    {
+      "path": "assets/section-how-to-use-ru.png",
+      "bytes": 32202,
+      "sha256": "af6b2883df7eb711387dadaef179d0cbda2e1d7378cce14f2b12ed912f785eb2"
+    },
+    {
+      "path": "assets/section-how-to-use.png",
+      "bytes": 28714,
+      "sha256": "7abb647c495f2a760d295a123b9433a08a8fa07b0c88163efefefe49d98c5f61"
+    },
+    {
+      "path": "assets/SOURCES.md",
+      "bytes": 1813,
+      "sha256": "d50165a7fa8136f1d965301c1bd2abe5871da40cf7872abaa8ca9ced274ad827"
+    },
+    {
+      "path": "assets/star-sky-avatar.png",
+      "bytes": 18963,
+      "sha256": "0e7a2174b281bc75d8ede0faab916f65364928417a64ebb150b5d1e67dcf2969"
+    },
+    {
+      "path": "assets/star-sky-banner.png",
+      "bytes": 123857,
+      "sha256": "678f3af0f8ea730747032ce6b262b4ea628ecf8d999d0f1986b8f67de3f04395"
+    },
+    {
+      "path": "assets/star-sky-github-social.png",
+      "bytes": 101662,
+      "sha256": "5e5389e48800b490c1ef923bb6960a18e5e03bd5498ff31e6852fcba99dd9d48"
+    },
+    {
+      "path": "README.md",
+      "bytes": 698,
+      "sha256": "12378bdf740a314838ebbccddf8ac966cbe0faad330b2a0ccdff23cb5b83dce1"
+    },
+    {
+      "path": "support/github/index.html",
+      "bytes": 840,
+      "sha256": "f9f511611d92c38db0efac0938ee1ea4b2867c0ff43fd3949194ce7b678d95b7"
+    },
+    {
+      "path": "support/steam-profile/index.html",
+      "bytes": 831,
+      "sha256": "cd770e2187106c07aa970ccd2083a887f9c3808e1e290a0b0ff87dd13fab2649"
+    },
+    {
+      "path": "support/steam/3789336886/index.html",
+      "bytes": 858,
+      "sha256": "5313f4b2e9058fb1ea201e1b1490e471734504328607b8939fdeae4948dd428f"
+    },
+    {
+      "path": "support/steam/3789339468/index.html",
+      "bytes": 858,
+      "sha256": "fbb1d9e8ba753b77ac8deff0ea1f170e473e2642b048ec6c64bc5191fef2e011"
+    },
+    {
+      "path": "support/steam/3802965084/index.html",
+      "bytes": 858,
+      "sha256": "ed1f67c9cdb1718f68c10e7a45cbfc3b2f4320c2cacd2b00c8db65874aa8b896"
+    }
+  ]
+}
