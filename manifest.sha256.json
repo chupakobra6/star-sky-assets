@@ -9,6 +9,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "assets/adaptive-storage-framework-translation.png",
+      "bytes": 313290,
+      "sha256": "8d90e2224849078b4046e1f8abfd744088b46c9cb03555f0259513f54ba67b30"
+    },
+    {
       "path": "assets/boosty-support.png",
       "bytes": 44086,
       "sha256": "e4c9b87ecdddcd7f3b5643c170083ce587af52da8f8a910723c9b7c0ddbde66f"
@@ -44,9 +49,19 @@
       "sha256": "d19730e36f6a7f114dbde8b1c751494003e301240a34eb09b471b9f1e8e180ee"
     },
     {
+      "path": "assets/go-explore-translation.png",
+      "bytes": 371910,
+      "sha256": "3ec92690fa9242f859af5b666a148ea3d7c64d27934cab7d942d0762f67be586"
+    },
+    {
       "path": "assets/goodwill-preview-translation.png",
       "bytes": 218463,
       "sha256": "5b7d13c3f33469e20f2cae11f4e28008fac490dfae512fbb3450fab47283f6cf"
+    },
+    {
+      "path": "assets/hunt-for-me-translation.png",
+      "bytes": 91586,
+      "sha256": "24511adca6e2101bbf8fa97c3c9faf90dde35fe0a246c3d3890e2121db5012b8"
     },
     {
       "path": "assets/isekai-balanced.png",
@@ -62,6 +77,11 @@
       "path": "assets/isekai-quests.png",
       "bytes": 296843,
       "sha256": "af016619bf8c130df01c20b288ea2e58d7d2e2d635c9de927d482f62a201f66b"
+    },
+    {
+      "path": "assets/nice-bill-tab-translation.png",
+      "bytes": 184258,
+      "sha256": "93ddc50d67aef5fd3809d49b2c7077fa14b9489fe1d73eb75d69d2e9199e7afd"
     },
     {
       "path": "assets/post-isekai-collection.png",
@@ -164,6 +184,11 @@
       "sha256": "d77373094483a4f74263fa1f31aef4023351d90420d382308567f53d6ccb5ad1"
     },
     {
+      "path": "assets/useful-marks-translation.png",
+      "bytes": 408898,
+      "sha256": "98f3ce83c1d9994ed607a55e4609f86dc716ec0e604d771e11af92193534da05"
+    },
+    {
       "path": "assets/visible-raid-points-translation.png",
       "bytes": 322082,
       "sha256": "4087f04ef66999879368519b577d642571a105e70de511d8dfd00806f139c7f0"
@@ -232,6 +257,31 @@
       "path": "support/steam/3803359239/index.html",
       "bytes": 30251,
       "sha256": "da8e08146c32fdb8311b9efa68ef065202d4288fe40783ad9614132c35d82a89"
+    },
+    {
+      "path": "support/steam/3803465492/index.html",
+      "bytes": 30251,
+      "sha256": "ef06d7cc0261b15e0b721b32d080e2e13da96bf12c137dc901d22a280734859a"
+    },
+    {
+      "path": "support/steam/3803465496/index.html",
+      "bytes": 30251,
+      "sha256": "519e57c3f7c387584e56c56819b47b1e1096e583fc888748286ea32377fde94c"
+    },
+    {
+      "path": "support/steam/3803465500/index.html",
+      "bytes": 30251,
+      "sha256": "b88da38b81f47bd75d77bbd6b9013907542f37ba8bb5ebab67ae123dd90a65f8"
+    },
+    {
+      "path": "support/steam/3803465503/index.html",
+      "bytes": 30251,
+      "sha256": "e698a191bfad6306cba82349aabe51eb9923eba755079c1af4b1f42b76948fc9"
+    },
+    {
+      "path": "support/steam/3803465507/index.html",
+      "bytes": 30251,
+      "sha256": "3803ff0d9b40743819a658d3f3cc846ac2c24e9f6830d22d793588b820526c17"
     }
   ]
 }
