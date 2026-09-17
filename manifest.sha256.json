@@ -135,28 +135,28 @@
     },
     {
       "path": "support/github/index.html",
-      "bytes": 840,
-      "sha256": "f9f511611d92c38db0efac0938ee1ea4b2867c0ff43fd3949194ce7b678d95b7"
+      "bytes": 30233,
+      "sha256": "6ef3476ee215f10b0bda048b969233a0421cd70257a27d1329567a28880b1d7a"
     },
     {
       "path": "support/steam-profile/index.html",
-      "bytes": 831,
-      "sha256": "cd770e2187106c07aa970ccd2083a887f9c3808e1e290a0b0ff87dd13fab2649"
+      "bytes": 30224,
+      "sha256": "e5ba9387558dcc403583eff51f261f7210685abf63a2476196998cb978e9bd25"
     },
     {
       "path": "support/steam/3789336886/index.html",
-      "bytes": 858,
-      "sha256": "5313f4b2e9058fb1ea201e1b1490e471734504328607b8939fdeae4948dd428f"
+      "bytes": 30251,
+      "sha256": "f662f7931f02399ba03f0336e7cb9b4654dfbe283113cac76b044ed3a0003568"
     },
     {
       "path": "support/steam/3789339468/index.html",
-      "bytes": 858,
-      "sha256": "fbb1d9e8ba753b77ac8deff0ea1f170e473e2642b048ec6c64bc5191fef2e011"
+      "bytes": 30251,
+      "sha256": "4aad6c19703b54222e5c68b6ea03e98fe58b42954c01ea2acd5ae83655c4ad83"
     },
     {
       "path": "support/steam/3802965084/index.html",
-      "bytes": 858,
-      "sha256": "ed1f67c9cdb1718f68c10e7a45cbfc3b2f4320c2cacd2b00c8db65874aa8b896"
+      "bytes": 30251,
+      "sha256": "cf7c909c19df7ebbceb1cc7e6e5b1deca50b7d28be8d794dc257a284b7576fdb"
     }
   ]
 }
