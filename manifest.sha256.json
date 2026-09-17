@@ -207,6 +207,11 @@
       "path": "support/steam/3803300296/index.html",
       "bytes": 30251,
       "sha256": "94d1e3c66bbb4a05bca83616a584a57edbb16d3a1c142f679912b33d0891164c"
+    },
+    {
+      "path": "support/steam/3803359239/index.html",
+      "bytes": 30251,
+      "sha256": "da8e08146c32fdb8311b9efa68ef065202d4288fe40783ad9614132c35d82a89"
     }
   ]
 }
