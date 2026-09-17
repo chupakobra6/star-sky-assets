@@ -35,13 +35,13 @@
     },
     {
       "path": "assets/collection-mods.png",
-      "bytes": 432201,
-      "sha256": "3b8a2141945392107761405df54cadf46d4ef254758f09fa3a6cfed63b173b6e"
+      "bytes": 431530,
+      "sha256": "c1f39ece0cd2c573b5fa6ccd3630bca803d58e3f0630578c243794fca85bf322"
     },
     {
       "path": "assets/collection-translations.png",
-      "bytes": 470592,
-      "sha256": "c3a3532f6a6bbb92126c17b4112776e382edb0949336fc341ecefd9fd5169606"
+      "bytes": 469792,
+      "sha256": "d19730e36f6a7f114dbde8b1c751494003e301240a34eb09b471b9f1e8e180ee"
     },
     {
       "path": "assets/goodwill-preview-translation.png",
@@ -125,8 +125,8 @@
     },
     {
       "path": "assets/SOURCES.md",
-      "bytes": 4185,
-      "sha256": "d434ae0df60093ba0a26695884322df1e150142411d8aa9b3b905b4105ab0ed4"
+      "bytes": 4212,
+      "sha256": "7e35f00df798a5a07395c08c7d69d65682416c1cb88520c0f1f083cd6d06bbd8"
     },
     {
       "path": "assets/star-sky-avatar.png",
