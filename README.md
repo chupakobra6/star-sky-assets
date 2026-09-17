@@ -1,8 +1,8 @@
 ![Star Sky Mods](assets/star-sky-banner.png)
 
-# Star Sky Mods · Artwork
+# Star Sky Assets
 
-Public artwork for **Star Sky Mods**: mod covers, reusable section headings and support banners.
+Shared Star Sky artwork: brand graphics, mod covers, reusable section headings and support banners.
 
 [Browse the RimWorld mods](https://github.com/chupakobra6/star-sky-rimworld-mods) or find them on [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100).
 

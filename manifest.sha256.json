@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "repository": "chupakobra6/star-sky-mods-assets",
+  "repository": "chupakobra6/star-sky-assets",
   "mods": [],
   "files": [
     {
@@ -9,14 +9,9 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "assets/boosty-mods.png",
-      "bytes": 52028,
-      "sha256": "d9f1c39c09b121dfabc374dbc8cdcca36132aa13a072720521c7149028a4f648"
-    },
-    {
       "path": "assets/boosty-support.png",
-      "bytes": 54800,
-      "sha256": "e1161a112001d747882e40b9f070e7d0fd4a82b2713cf6dd6b3b7dfa7951b132"
+      "bytes": 45912,
+      "sha256": "faf98ea0f799f375ca55ad25595b1d2be8f06a69d733c290758212ad40b5799a"
     },
     {
       "path": "assets/button-support.png",
@@ -30,23 +25,28 @@
     },
     {
       "path": "assets/isekai-balanced.png",
-      "bytes": 312009,
-      "sha256": "c2125ca5f51cf259280ec3db01490c04439661be16afd97c3a766bf7472d43c6"
+      "bytes": 310458,
+      "sha256": "57ad370aab50c0de5d3893500598ffee519638337f786fc5aebf4cbcd8884801"
     },
     {
       "path": "assets/isekai-camera.png",
-      "bytes": 310352,
-      "sha256": "0292ef55a9b6d57351e1132b8e1651d0c63f8b01e5a25f15d4426a6ff1a3ef8d"
+      "bytes": 308815,
+      "sha256": "7bf7d59485517b9547dde5eb5b2a0bffbb0ca0552e511f7fd0d6677f3c6204e6"
     },
     {
       "path": "assets/isekai-quests.png",
-      "bytes": 313273,
-      "sha256": "9787d6d0671778576cfa97b3111c0c64a3cc2076fbdc6d623501c29bfd2b1bed"
+      "bytes": 311718,
+      "sha256": "c2023c93a13037fde87b220c34bc4b8d4ecfb1f59eb9e2d1b8bf9bad00ae90d5"
+    },
+    {
+      "path": "assets/post-isekai-collection.png",
+      "bytes": 161292,
+      "sha256": "fbfb3c04c57732656bd3180794336c5c53ecb24383df5c4bb8589aeb7d9204a0"
     },
     {
       "path": "assets/rimsaves-translation.png",
-      "bytes": 101610,
-      "sha256": "2d5c592f2a9350769c0331a2f98175ed51732f20dd2a5b60abe5111a9671518b"
+      "bytes": 102195,
+      "sha256": "073472585ff29417fba9d8d449e3f493e0b1db3f4c78bd500e25d47061ed5517"
     },
     {
       "path": "assets/section-compatibility-ru.png",
@@ -100,18 +100,38 @@
     },
     {
       "path": "assets/star-sky-banner.png",
-      "bytes": 123857,
-      "sha256": "678f3af0f8ea730747032ce6b262b4ea628ecf8d999d0f1986b8f67de3f04395"
+      "bytes": 136160,
+      "sha256": "ffb4739ffd191302bf8e3ea3849bc3bc558bbc11a23a713a81fc2484de334376"
+    },
+    {
+      "path": "assets/star-sky-boosty.png",
+      "bytes": 328740,
+      "sha256": "513c671dc4530ad488995a41e529a5c6134081f6d07255818c19d2b48fe154a1"
     },
     {
       "path": "assets/star-sky-github-social.png",
-      "bytes": 101662,
-      "sha256": "5e5389e48800b490c1ef923bb6960a18e5e03bd5498ff31e6852fcba99dd9d48"
+      "bytes": 85156,
+      "sha256": "1095a9b5bd0fecd7deadd2f7cbfbd0fb77f9751f4befc0d342560fea38e34197"
+    },
+    {
+      "path": "assets/tier-constellation.png",
+      "bytes": 81572,
+      "sha256": "866847e7f688973849c0d3eab6ed77abd436145b61ca07d20d8b509260d079c6"
+    },
+    {
+      "path": "assets/tier-spark.png",
+      "bytes": 77352,
+      "sha256": "63e7f5a157e6abd824e7bdc331b7bdf53e6e36bba864742b933478c9fd993644"
+    },
+    {
+      "path": "assets/tier-star.png",
+      "bytes": 78152,
+      "sha256": "cc0f1baca6f85beb40735e0432cfedfdb805a1f96f04082000f06c066b7cbdc2"
     },
     {
       "path": "README.md",
-      "bytes": 698,
-      "sha256": "12378bdf740a314838ebbccddf8ac966cbe0faad330b2a0ccdff23cb5b83dce1"
+      "bytes": 692,
+      "sha256": "1eea1d46e9edda8017c1b7e3aa2300dc6b73c13246cd2c82474666434505949c"
     },
     {
       "path": "support/github/index.html",
