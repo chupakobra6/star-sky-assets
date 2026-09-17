@@ -10,8 +10,8 @@
     },
     {
       "path": "assets/adaptive-storage-framework-translation.png",
-      "bytes": 313290,
-      "sha256": "8d90e2224849078b4046e1f8abfd744088b46c9cb03555f0259513f54ba67b30"
+      "bytes": 377626,
+      "sha256": "90a7201d0fde47735b69bda8bf32901dc3ea9710d2c6d55d8f497df4d8450e9d"
     },
     {
       "path": "assets/boosty-support.png",
@@ -50,18 +50,18 @@
     },
     {
       "path": "assets/go-explore-translation.png",
-      "bytes": 371910,
-      "sha256": "3ec92690fa9242f859af5b666a148ea3d7c64d27934cab7d942d0762f67be586"
+      "bytes": 467977,
+      "sha256": "c182ee09b0c1de326e2d19f18fba50b35f96003028b2eb98f159052555cd8ffd"
     },
     {
       "path": "assets/goodwill-preview-translation.png",
-      "bytes": 218463,
-      "sha256": "5b7d13c3f33469e20f2cae11f4e28008fac490dfae512fbb3450fab47283f6cf"
+      "bytes": 288755,
+      "sha256": "65dd5b4fc3fa05c8799178f5975fdcdbbb680330600db9f42b555a30436b0b78"
     },
     {
       "path": "assets/hunt-for-me-translation.png",
-      "bytes": 91586,
-      "sha256": "24511adca6e2101bbf8fa97c3c9faf90dde35fe0a246c3d3890e2121db5012b8"
+      "bytes": 110569,
+      "sha256": "4418390d5f31fab826cb255ab1fe6677f2f31b04d3bf0d9ce7c21b2c413d9668"
     },
     {
       "path": "assets/isekai-balanced.png",
@@ -80,8 +80,8 @@
     },
     {
       "path": "assets/nice-bill-tab-translation.png",
-      "bytes": 184258,
-      "sha256": "93ddc50d67aef5fd3809d49b2c7077fa14b9489fe1d73eb75d69d2e9199e7afd"
+      "bytes": 192784,
+      "sha256": "5d7bad006b2e117a03119861581f9a5c799cddf05b3432a064905fc7f24b1cfe"
     },
     {
       "path": "assets/post-isekai-collection.png",
@@ -90,13 +90,13 @@
     },
     {
       "path": "assets/qualitybuilder-translation.png",
-      "bytes": 171435,
-      "sha256": "58e9568cc02670e9d72f2f8208f88d2328470991636aa299ef4e84bab4dc2c95"
+      "bytes": 311241,
+      "sha256": "13e2c796dbd0d18793e2bde8b323cecfce46a940c1ae7ce894224ceee3cb5cfa"
     },
     {
       "path": "assets/rimsaves-translation.png",
-      "bytes": 97623,
-      "sha256": "c86365d821667f657da6051e51fba77f7588ac18145b1f4c0550fa9274a8b2ff"
+      "bytes": 97606,
+      "sha256": "386f0fa8f78bc93a12f68875dd61ef69789003320f6a05e7a98dd9be7c11d772"
     },
     {
       "path": "assets/section-compatibility-ru.png",
@@ -140,8 +140,8 @@
     },
     {
       "path": "assets/simple-camera-setting-translation.png",
-      "bytes": 234336,
-      "sha256": "8ca93bdbfdec19d23f25909652a9dc880b036cdb317fd1f9bdbbcd10327c0b50"
+      "bytes": 786465,
+      "sha256": "69ae2618268176e8f788685a91612d3bfedc14294c2e5f8e9440f9307760a396"
     },
     {
       "path": "assets/SOURCES.md",
@@ -185,13 +185,13 @@
     },
     {
       "path": "assets/useful-marks-translation.png",
-      "bytes": 408898,
-      "sha256": "98f3ce83c1d9994ed607a55e4609f86dc716ec0e604d771e11af92193534da05"
+      "bytes": 466396,
+      "sha256": "ca76e14c7b54a6027d85dce5a43f30ff66f057c5283e890c1ce79d2d013d8a4c"
     },
     {
       "path": "assets/visible-raid-points-translation.png",
-      "bytes": 322082,
-      "sha256": "4087f04ef66999879368519b577d642571a105e70de511d8dfd00806f139c7f0"
+      "bytes": 425034,
+      "sha256": "493a9d63072add0ab962315a9fefc5d37a86bcbdc7cb7fb391a9d540547c1c0f"
     },
     {
       "path": "README.md",
