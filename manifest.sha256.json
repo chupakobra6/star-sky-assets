@@ -162,6 +162,31 @@
       "path": "support/steam/3803223434/index.html",
       "bytes": 30251,
       "sha256": "56cc3532e5d9bc868cf90a9c4c0c55d2ea6dd284176921a685dd5637eef928aa"
+    },
+    {
+      "path": "support/steam/3803300028/index.html",
+      "bytes": 30251,
+      "sha256": "059517b93e3bc143c72e12d4fcbd2edf23d83fe22be5cc1ec36bae313afc2b3f"
+    },
+    {
+      "path": "support/steam/3803300103/index.html",
+      "bytes": 30251,
+      "sha256": "2cbfc5699a5c14c56f48497635f4384c162b9b7fdaa69cd5f0b3601f6703df6c"
+    },
+    {
+      "path": "support/steam/3803300163/index.html",
+      "bytes": 30251,
+      "sha256": "c854a6ba8a9c8667c4c7ff9e0cf19134e9cbd8fb3ff83204dc07632ed324d379"
+    },
+    {
+      "path": "support/steam/3803300243/index.html",
+      "bytes": 30251,
+      "sha256": "c00a5087bc8878a3c6039c9f0e286369827d9452bcce31ed1d9b0b97aa889c27"
+    },
+    {
+      "path": "support/steam/3803300296/index.html",
+      "bytes": 30251,
+      "sha256": "94d1e3c66bbb4a05bca83616a584a57edbb16d3a1c142f679912b33d0891164c"
     }
   ]
 }
