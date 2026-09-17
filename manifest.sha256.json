@@ -24,6 +24,16 @@
       "sha256": "fcad14db8476a5dfbd7c65c5228bd61d22fe8b99c5dfdde3b54193b8b01d5e39"
     },
     {
+      "path": "assets/collection-mods.png",
+      "bytes": 535968,
+      "sha256": "b2ea36aedee0bc6515b7648405912b0a25196a72470e381c9dfdf9dd99671acf"
+    },
+    {
+      "path": "assets/collection-translations.png",
+      "bytes": 577246,
+      "sha256": "0550cb5bcee5dc853da957d6675124c2678feb303d8498539c674b548022cd1c"
+    },
+    {
       "path": "assets/goodwill-preview-translation.png",
       "bytes": 218463,
       "sha256": "5b7d13c3f33469e20f2cae11f4e28008fac490dfae512fbb3450fab47283f6cf"
@@ -105,8 +115,8 @@
     },
     {
       "path": "assets/SOURCES.md",
-      "bytes": 2859,
-      "sha256": "3b2ad32a9ddba5bb09c584adb4f274438f8a6a94d090a3cf9cf22836cf1786ee"
+      "bytes": 3630,
+      "sha256": "39a54ef8d5785c704e4f53f204456da46ccdf34fd052dba3a675b63313015c12"
     },
     {
       "path": "assets/star-sky-avatar.png",
@@ -150,8 +160,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 692,
-      "sha256": "1eea1d46e9edda8017c1b7e3aa2300dc6b73c13246cd2c82474666434505949c"
+      "bytes": 855,
+      "sha256": "49d7bc1ba5e4f048420fec662446e3e46644f8cd5b7788d7fa85ccc8b3b113e8"
     },
     {
       "path": "support/github/index.html",

@@ -9,3 +9,5 @@ Shared Star Sky artwork: brand graphics, mod covers, reusable section headings a
 [![Support on Boosty](assets/button-support.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
 
 The illustrations retain their original owners’ rights. Code licenses do not apply to third-party artwork. [Sources and notices](assets/SOURCES.md).
+
+Star Sky Mods branding has separate terms: you may display its name and logo to refer to our work, without implying that your work is official or endorsed by us.
