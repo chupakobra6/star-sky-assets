@@ -10,88 +10,88 @@
     },
     {
       "path": "assets/boosty-support.png",
-      "bytes": 45912,
-      "sha256": "faf98ea0f799f375ca55ad25595b1d2be8f06a69d733c290758212ad40b5799a"
+      "bytes": 44086,
+      "sha256": "e4c9b87ecdddcd7f3b5643c170083ce587af52da8f8a910723c9b7c0ddbde66f"
     },
     {
       "path": "assets/button-support.png",
-      "bytes": 38766,
-      "sha256": "e99c8ae308c73ef500b3a72b3a86a27257317fde4405f7e6b710a99ed26285ae"
+      "bytes": 36677,
+      "sha256": "f0b4b148b25fd5b52857d28893d549afd15bbf7d3f72af6198afce95be55d1a6"
     },
     {
       "path": "assets/button-workshop.png",
-      "bytes": 37985,
-      "sha256": "d064ea72c54308005ed5502d5bef2ae9c27a218c27c84d507128945dc3fa81cf"
+      "bytes": 36136,
+      "sha256": "fcad14db8476a5dfbd7c65c5228bd61d22fe8b99c5dfdde3b54193b8b01d5e39"
     },
     {
       "path": "assets/isekai-balanced.png",
-      "bytes": 310458,
-      "sha256": "57ad370aab50c0de5d3893500598ffee519638337f786fc5aebf4cbcd8884801"
+      "bytes": 294792,
+      "sha256": "a663db39466440547be7c9efc6e9973786a69a69b7b444d3ff319c40330be43b"
     },
     {
       "path": "assets/isekai-camera.png",
-      "bytes": 308815,
-      "sha256": "7bf7d59485517b9547dde5eb5b2a0bffbb0ca0552e511f7fd0d6677f3c6204e6"
+      "bytes": 295701,
+      "sha256": "95a7f8776d4763397698e1841d196965e96351f24dedc4644ded9a8715fda79d"
     },
     {
       "path": "assets/isekai-quests.png",
-      "bytes": 311718,
-      "sha256": "c2023c93a13037fde87b220c34bc4b8d4ecfb1f59eb9e2d1b8bf9bad00ae90d5"
+      "bytes": 296843,
+      "sha256": "af016619bf8c130df01c20b288ea2e58d7d2e2d635c9de927d482f62a201f66b"
     },
     {
       "path": "assets/post-isekai-collection.png",
-      "bytes": 161292,
-      "sha256": "fbfb3c04c57732656bd3180794336c5c53ecb24383df5c4bb8589aeb7d9204a0"
+      "bytes": 154326,
+      "sha256": "46024dd207db1b93fb450c0c8e52f315e0eb48e5ac18323c79f685c837c1e422"
     },
     {
       "path": "assets/rimsaves-translation.png",
-      "bytes": 102195,
-      "sha256": "073472585ff29417fba9d8d449e3f493e0b1db3f4c78bd500e25d47061ed5517"
+      "bytes": 97623,
+      "sha256": "c86365d821667f657da6051e51fba77f7588ac18145b1f4c0550fa9274a8b2ff"
     },
     {
       "path": "assets/section-compatibility-ru.png",
-      "bytes": 31163,
-      "sha256": "626eeab73b3e21ea44ea82e3b0cbae867b2b605a33f517e52a82d81649cba108"
+      "bytes": 28563,
+      "sha256": "93404e86d93834392aad8e893140ab7b52a93b03d5bc523925ded8b750e8ffed"
     },
     {
       "path": "assets/section-compatibility.png",
-      "bytes": 29202,
-      "sha256": "df3b4da9a131568f7d3b7e2841a25446bcd5ed05f23026bf45e9873a3246f649"
+      "bytes": 27985,
+      "sha256": "788bbb3b6fa709023d43a55dfc9e9027725d27a0a23e82eb182ac7ef0aa6025f"
     },
     {
       "path": "assets/section-features-ru.png",
-      "bytes": 31345,
-      "sha256": "c434a7d480cb221988c2a0a808a9a9eb5f1df71c1121b994bb03d07332304d20"
+      "bytes": 29238,
+      "sha256": "3c680462e02c27aa66be81c5ec9a7e1b6e7ca4db01898f8aeac76d6c972680df"
     },
     {
       "path": "assets/section-features.png",
-      "bytes": 27723,
-      "sha256": "ef11455f62695d12fb0c08877d0bb5e55d802a54bc2b4e1d4e546d30d7448dc6"
+      "bytes": 26389,
+      "sha256": "5a97c4aa9255c3f6024235bfc46d1affb68cb82661f1ae63e8d6b7e909ea1bc3"
     },
     {
       "path": "assets/section-feedback-ru.png",
-      "bytes": 31074,
-      "sha256": "b4675668676cad1528cdbba6da516f8376dcbdccd074f5c98775382c9b247914"
+      "bytes": 29118,
+      "sha256": "b904fad4b63e3ee92ca1a66802acf7010ce6035613d87f6a1f9ae0f0c07a7218"
     },
     {
       "path": "assets/section-feedback.png",
-      "bytes": 27871,
-      "sha256": "7ac76c7f8bc7c12e3ef4d2e09d589e56a62d5c5a67ec109e33a33d6d708d5f53"
+      "bytes": 26907,
+      "sha256": "8b64f080ffcb9e9b7e189fdfe44dd6a60f8cf363b8cbefda1cf3e024ea619166"
     },
     {
       "path": "assets/section-how-to-use-ru.png",
-      "bytes": 32202,
-      "sha256": "af6b2883df7eb711387dadaef179d0cbda2e1d7378cce14f2b12ed912f785eb2"
+      "bytes": 30548,
+      "sha256": "bbf66912fd8376cdaa5b6a2713934bcf994d0c2326ec0e419890ba62825d5b72"
     },
     {
       "path": "assets/section-how-to-use.png",
-      "bytes": 28714,
-      "sha256": "7abb647c495f2a760d295a123b9433a08a8fa07b0c88163efefefe49d98c5f61"
+      "bytes": 27483,
+      "sha256": "f8e516612047d223c829a62ab3776d8a4f485afb0b9be6a81ecb021ef86de63a"
     },
     {
       "path": "assets/SOURCES.md",
-      "bytes": 1813,
-      "sha256": "d50165a7fa8136f1d965301c1bd2abe5871da40cf7872abaa8ca9ced274ad827"
+      "bytes": 1830,
+      "sha256": "66c6a7c5810e30b03fd70422ee05729859f1b21acefe4b3081d59a5d002f7d5e"
     },
     {
       "path": "assets/star-sky-avatar.png",
@@ -100,33 +100,33 @@
     },
     {
       "path": "assets/star-sky-banner.png",
-      "bytes": 136160,
-      "sha256": "ffb4739ffd191302bf8e3ea3849bc3bc558bbc11a23a713a81fc2484de334376"
+      "bytes": 132354,
+      "sha256": "4bf41a546a1bdaaaa5851c71ba4c524098d39b5d3cc97a56dae64eba53f1f23d"
     },
     {
       "path": "assets/star-sky-boosty.png",
-      "bytes": 328740,
-      "sha256": "513c671dc4530ad488995a41e529a5c6134081f6d07255818c19d2b48fe154a1"
+      "bytes": 319984,
+      "sha256": "b9584fc79b785ec3af36bb5bb35db460bf6766e3c92fe963780e00be703aa633"
     },
     {
       "path": "assets/star-sky-github-social.png",
-      "bytes": 85156,
-      "sha256": "1095a9b5bd0fecd7deadd2f7cbfbd0fb77f9751f4befc0d342560fea38e34197"
+      "bytes": 83424,
+      "sha256": "c36682fc33526b6cb1a77ea316e42db1c3ccf6b78fb641d7dd37bb4d8b5683d2"
     },
     {
       "path": "assets/tier-constellation.png",
-      "bytes": 81572,
-      "sha256": "866847e7f688973849c0d3eab6ed77abd436145b61ca07d20d8b509260d079c6"
+      "bytes": 79842,
+      "sha256": "f7391320369a2eeea53d8747acf936e526d2bae7d8a885387aff8bb837d5b827"
     },
     {
       "path": "assets/tier-spark.png",
-      "bytes": 77352,
-      "sha256": "63e7f5a157e6abd824e7bdc331b7bdf53e6e36bba864742b933478c9fd993644"
+      "bytes": 76438,
+      "sha256": "6358bb5b3eced4fab4f955dd70fd7a86a21d59e05bfa39e7c314511a82cd2b3c"
     },
     {
       "path": "assets/tier-star.png",
-      "bytes": 78152,
-      "sha256": "cc0f1baca6f85beb40735e0432cfedfdb805a1f96f04082000f06c066b7cbdc2"
+      "bytes": 77121,
+      "sha256": "d77373094483a4f74263fa1f31aef4023351d90420d382308567f53d6ccb5ad1"
     },
     {
       "path": "README.md",
