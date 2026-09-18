@@ -64,14 +64,29 @@
       "sha256": "184a8a295f5882e5f3aa7a2f8e9bee11ec2d9d390125d41f827d6630bbf44159"
     },
     {
+      "path": "assets/isekai-balanced.gif",
+      "bytes": 789350,
+      "sha256": "bd0dc9a2bfdd8bd5b8fd16ca06bc132789948c7b750f238f8d8d2c5ba9e3ab28"
+    },
+    {
       "path": "assets/isekai-balanced.png",
       "bytes": 294792,
       "sha256": "a663db39466440547be7c9efc6e9973786a69a69b7b444d3ff319c40330be43b"
     },
     {
+      "path": "assets/isekai-camera.gif",
+      "bytes": 791065,
+      "sha256": "384dc5c6bf10e208b135f059e08b459f9014d46528df44890179b865595a20cc"
+    },
+    {
       "path": "assets/isekai-camera.png",
       "bytes": 295701,
       "sha256": "95a7f8776d4763397698e1841d196965e96351f24dedc4644ded9a8715fda79d"
+    },
+    {
+      "path": "assets/isekai-quests.gif",
+      "bytes": 795266,
+      "sha256": "2b40c4450983d1d0808944345a1f7c708de4502f2e7d59f84b4c656951ede38d"
     },
     {
       "path": "assets/isekai-quests.png",
@@ -137,6 +152,11 @@
       "path": "assets/section-how-to-use.png",
       "bytes": 27483,
       "sha256": "f8e516612047d223c829a62ab3776d8a4f485afb0b9be6a81ecb021ef86de63a"
+    },
+    {
+      "path": "assets/simple-camera-setting-translation.gif",
+      "bytes": 810756,
+      "sha256": "3ec866c0673f5fc38ae949791dd4d8c58b783b17ba72f21206b1727850496dcd"
     },
     {
       "path": "assets/simple-camera-setting-translation.png",
