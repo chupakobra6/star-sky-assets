@@ -175,33 +175,33 @@
     },
     {
       "path": "assets/star-sky-banner.png",
-      "bytes": 132676,
-      "sha256": "b4f37d9268885668ac5cf1794981365861fb892cb71b3791bb65f53669267b1e"
+      "bytes": 131965,
+      "sha256": "33daa5234d1788e17aa481558284b783cb1e15a46e42753b434afdb14e502fa5"
     },
     {
       "path": "assets/star-sky-boosty.png",
-      "bytes": 320870,
-      "sha256": "df1ade8bcec42895cbc2ace7caf24612c9914e6039fbd8fe11ddb9ba16784364"
+      "bytes": 319425,
+      "sha256": "3c114f6c687d6008013ef70ce192736545a7e0984a9b975e5c9c95589006b4d1"
     },
     {
       "path": "assets/star-sky-github-social.png",
-      "bytes": 83633,
-      "sha256": "ccda8d9be4c5dcfb77fba51470ab6f938d0cffb4ed3af2b188314c3740045fa3"
+      "bytes": 83417,
+      "sha256": "220f4e9f75d2856e32fd7fd39c6b593d94ad2b74b0857ded4636933affddd670"
     },
     {
       "path": "assets/tier-constellation.png",
-      "bytes": 78074,
-      "sha256": "1f84ba11e8997f7c8d96a257c21d34056de85f21d7857226bef8c284a0bf71e1"
+      "bytes": 79301,
+      "sha256": "89410432be4ebe4e629f46fc428cc488eda293fc205ead93eaab7fd84c04c427"
     },
     {
       "path": "assets/tier-spark.png",
-      "bytes": 74580,
-      "sha256": "7ea655d8a152ae7798ca011f50b1452f11d3083c836926fb05dc973f57cb8619"
+      "bytes": 74192,
+      "sha256": "73aaec254a7c5413f61b082691f55357e35493ec766d6d38add2119165a9291d"
     },
     {
       "path": "assets/tier-star.png",
-      "bytes": 75235,
-      "sha256": "04564bba0ab445a8ee950be5f3677ebfdb02000cfffdd0fa23b6d5a0e335687c"
+      "bytes": 75477,
+      "sha256": "d86dc0b13fc89dab0ce091ae6d62196ea4c927da5089f7f941b3c67aaf6ccd0c"
     },
     {
       "path": "assets/useful-marks-translation.png",
