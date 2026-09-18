@@ -190,18 +190,18 @@
     },
     {
       "path": "assets/tier-constellation.png",
-      "bytes": 79301,
-      "sha256": "89410432be4ebe4e629f46fc428cc488eda293fc205ead93eaab7fd84c04c427"
+      "bytes": 79912,
+      "sha256": "c63aa89d772e39453d183936b4201af9b1bc99911245c75addd1b2afd16ff33b"
     },
     {
       "path": "assets/tier-spark.png",
-      "bytes": 74192,
-      "sha256": "73aaec254a7c5413f61b082691f55357e35493ec766d6d38add2119165a9291d"
+      "bytes": 74888,
+      "sha256": "405e50bf9bc7a23281e715a0062572b45dd174fba93add6da90eed8bee56272a"
     },
     {
       "path": "assets/tier-star.png",
-      "bytes": 75477,
-      "sha256": "d86dc0b13fc89dab0ce091ae6d62196ea4c927da5089f7f941b3c67aaf6ccd0c"
+      "bytes": 76228,
+      "sha256": "6fd8f48f57c90992259879e6d7d63523342e034ef6396511d9f7095c77626092"
     },
     {
       "path": "assets/useful-marks-translation.png",
