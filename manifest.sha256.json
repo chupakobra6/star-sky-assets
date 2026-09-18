@@ -10,8 +10,8 @@
     },
     {
       "path": "assets/adaptive-storage-framework-translation.png",
-      "bytes": 377626,
-      "sha256": "90a7201d0fde47735b69bda8bf32901dc3ea9710d2c6d55d8f497df4d8450e9d"
+      "bytes": 378965,
+      "sha256": "614066f3151b4ba02e3e9b3543e59d0988f09d8ddb9a5bf98000bdd4b05c2fb2"
     },
     {
       "path": "assets/boosty-support.png",
@@ -50,8 +50,8 @@
     },
     {
       "path": "assets/go-explore-translation.png",
-      "bytes": 467977,
-      "sha256": "c182ee09b0c1de326e2d19f18fba50b35f96003028b2eb98f159052555cd8ffd"
+      "bytes": 472343,
+      "sha256": "d440eedc55af4ab4c294dfbfd212c1de3162d1d5bfc9710e7584a82303cb0977"
     },
     {
       "path": "assets/goodwill-preview-translation.png",
@@ -60,8 +60,8 @@
     },
     {
       "path": "assets/hunt-for-me-translation.png",
-      "bytes": 110569,
-      "sha256": "4418390d5f31fab826cb255ab1fe6677f2f31b04d3bf0d9ce7c21b2c413d9668"
+      "bytes": 110352,
+      "sha256": "184a8a295f5882e5f3aa7a2f8e9bee11ec2d9d390125d41f827d6630bbf44159"
     },
     {
       "path": "assets/isekai-balanced.png",
@@ -90,13 +90,13 @@
     },
     {
       "path": "assets/qualitybuilder-translation.png",
-      "bytes": 311241,
-      "sha256": "13e2c796dbd0d18793e2bde8b323cecfce46a940c1ae7ce894224ceee3cb5cfa"
+      "bytes": 272832,
+      "sha256": "9677f8aaa14d74ef0cf6319b8357537f90efd1c4d21f47c51be49f8574203bf8"
     },
     {
       "path": "assets/rimsaves-translation.png",
-      "bytes": 97606,
-      "sha256": "386f0fa8f78bc93a12f68875dd61ef69789003320f6a05e7a98dd9be7c11d772"
+      "bytes": 97347,
+      "sha256": "f9eb9f5cf13c713ff436bba47caa5c9774263ed65466fb63a28a3bf707263999"
     },
     {
       "path": "assets/section-compatibility-ru.png",
@@ -140,8 +140,8 @@
     },
     {
       "path": "assets/simple-camera-setting-translation.png",
-      "bytes": 786465,
-      "sha256": "69ae2618268176e8f788685a91612d3bfedc14294c2e5f8e9440f9307760a396"
+      "bytes": 751590,
+      "sha256": "9322ae7a9b822aa4a957e89227e5c208284ef2d36d28b1a183626beed5594b25"
     },
     {
       "path": "assets/SOURCES.md",
@@ -190,8 +190,8 @@
     },
     {
       "path": "assets/visible-raid-points-translation.png",
-      "bytes": 425034,
-      "sha256": "493a9d63072add0ab962315a9fefc5d37a86bcbdc7cb7fb391a9d540547c1c0f"
+      "bytes": 395765,
+      "sha256": "5051e1f8404a5c981dd011e2e033b5e4f9e46388c66b70658b333860b5d0f4bd"
     },
     {
       "path": "README.md",
