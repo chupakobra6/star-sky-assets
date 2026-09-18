@@ -49,6 +49,16 @@
       "sha256": "77e213850820f8895f92188a093f79041eb07a7ea52c051060ca940843f1476b"
     },
     {
+      "path": "assets/common-sense-translation.png",
+      "bytes": 269302,
+      "sha256": "22c7003c957653f87e327f68d73eb55a440d76e9aa999d12e8562e157a92a3e9"
+    },
+    {
+      "path": "assets/dawn-of-a-new-day-translation.png",
+      "bytes": 508166,
+      "sha256": "f9ec368d72b093794b892e6895728ab8000f391aa9bb17318da302d4150b49a8"
+    },
+    {
       "path": "assets/go-explore-translation.png",
       "bytes": 480714,
       "sha256": "ba42aa00dc3334f8f14394550c909c84a2de6821226a2483abacbeea1152e147"
@@ -102,6 +112,21 @@
       "path": "assets/nice-bill-tab-translation.png",
       "bytes": 197557,
       "sha256": "3e3af98cd09374d76697af0c89b272def4a12e75fc14f5e653009f4f30c5564e"
+    },
+    {
+      "path": "assets/nice-inventory-tab-translation.png",
+      "bytes": 228570,
+      "sha256": "74355a801c8e95734629f5096afe605f923d94c3ec977d4ff98c651614f4309d"
+    },
+    {
+      "path": "assets/nice-research-tab-translation.png",
+      "bytes": 251800,
+      "sha256": "d368f86187c30702e884515684604b2fd631eaad72e0644303fe3fe9ad03a444"
+    },
+    {
+      "path": "assets/performance-esmolas-translation.png",
+      "bytes": 444731,
+      "sha256": "cf0b814bc9fe9df2b41281d9afff6b4b7d1c9f8f44e8b0a1a94403c3fdf36000"
     },
     {
       "path": "assets/post-isekai-collection.png",
@@ -312,6 +337,31 @@
       "path": "support/steam/3803697838/index.html",
       "bytes": 30251,
       "sha256": "1ec1818d9331041b0e152b54956dee9758668ae711c5549f3cf224110b51134d"
+    },
+    {
+      "path": "support/steam/3803878917/index.html",
+      "bytes": 30251,
+      "sha256": "48d5b4717ba12601d3b4050f5cf7c36b5ffd949968ac0dcda9271df1defa7b3c"
+    },
+    {
+      "path": "support/steam/3803878920/index.html",
+      "bytes": 30251,
+      "sha256": "098dc96118a7fc21451adb5c6bf546d73bd9da86490938a9662b689e40fddc52"
+    },
+    {
+      "path": "support/steam/3803878927/index.html",
+      "bytes": 30251,
+      "sha256": "250fb3265175238c6072bd22bc8c37b8f7124f0bfad4e1ac7c956986af78368c"
+    },
+    {
+      "path": "support/steam/3803878932/index.html",
+      "bytes": 30251,
+      "sha256": "652ccf8f0654dfaab8c00cb291a788edb60529100fbfffa634d03914fb7a283a"
+    },
+    {
+      "path": "support/steam/3803878938/index.html",
+      "bytes": 30251,
+      "sha256": "fb24961518c6f2c7f91c7a59d8e51e014c09024c0029b797c29796548c9e4043"
     }
   ]
 }
