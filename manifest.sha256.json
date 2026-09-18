@@ -10,158 +10,188 @@
     },
     {
       "path": "assets/adaptive-storage-framework-translation.png",
-      "bytes": 385602,
-      "sha256": "9e83e6891dd784885996652a1599a772e9a9e21cfb12419b17c7911eedfacf4e"
+      "bytes": 383217,
+      "sha256": "3751e11b9e7af74c879b917886c8a541cb99659b48d714a9a4bcb72db6cabfde"
     },
     {
       "path": "assets/boosty-support.png",
-      "bytes": 46208,
-      "sha256": "98b217ffabb3697482419fbd4c595ff20f8c78528ff8f7675508783ed3ca3b48"
+      "bytes": 37040,
+      "sha256": "c7eb3f7bd6887a54cdceca92f696d9d45e4e8acc956a37644a7adf54a58f2016"
+    },
+    {
+      "path": "assets/button-support-ru-centered.png",
+      "bytes": 30924,
+      "sha256": "d8583e0e6a12ec4d3d98e1ae1c02743b00a19992d2b4046d766ec6678129b090"
     },
     {
       "path": "assets/button-support-ru.png",
-      "bytes": 40427,
-      "sha256": "bcf630c125d4147463e41b601b2a02ccb29db83e45e6499351c4aebf3e05e5c1"
+      "bytes": 31018,
+      "sha256": "b98c8948e089ed72a126d6ca0d3c1cedbf5621161a7a2b5c0bac62aa0f800843"
     },
     {
       "path": "assets/button-support.png",
-      "bytes": 39292,
-      "sha256": "a3fbec9a55b68b044d9406ba57b0382add2e88a44fcff198259ef2dd1b788d68"
+      "bytes": 30030,
+      "sha256": "3753ba24769732220646c739c3d3a1613e23d06e32d98b59175e47fd4244c91a"
+    },
+    {
+      "path": "assets/button-workshop-ru-centered.png",
+      "bytes": 27270,
+      "sha256": "def652b89989131efdf9b9bbde7ac42ebba1955378164f32427f3a27a774998e"
     },
     {
       "path": "assets/button-workshop-ru.png",
-      "bytes": 36642,
-      "sha256": "2e1a2346a246ea56e59d4c7b37dbbfbcdf3f99eda77391ef27dd9287fb3fefef"
+      "bytes": 27401,
+      "sha256": "e786163790607c9002b6cfc3ac4dca1ce484882cdee2ad578a0b15310118ba83"
     },
     {
       "path": "assets/button-workshop.png",
-      "bytes": 38724,
-      "sha256": "07c40c1da76c390445d101580d631ec372ca75f893a09412a30e72fababd63fb"
+      "bytes": 29434,
+      "sha256": "1b092c7d50594364f82c9fa4c57391ab4c3ceee4e0e1767bde8d4a05853157bf"
     },
     {
       "path": "assets/collection-mods.png",
-      "bytes": 452799,
-      "sha256": "74fca731c968b58311f92cbecd22712b27698f6e507c15c7df7ca41c9d57db46"
+      "bytes": 437127,
+      "sha256": "3711a47d8d929a45fe2a8ca0978501d4416e65e6b218371d58224b61ae19c6cc"
     },
     {
       "path": "assets/collection-translations.png",
-      "bytes": 492431,
-      "sha256": "1c0005f51f98d4b4e3185f89079680db03bbde53f6710d22ceacce42138c05f2"
+      "bytes": 476149,
+      "sha256": "77e213850820f8895f92188a093f79041eb07a7ea52c051060ca940843f1476b"
     },
     {
       "path": "assets/go-explore-translation.png",
-      "bytes": 486461,
-      "sha256": "bcba342f9f46ea71372ebae00d3ff36e5775d8ac6b68a34e8c697523a739f0a3"
+      "bytes": 480714,
+      "sha256": "ba42aa00dc3334f8f14394550c909c84a2de6821226a2483abacbeea1152e147"
     },
     {
       "path": "assets/goodwill-preview-translation.png",
-      "bytes": 303702,
-      "sha256": "a5b4fd5065fa36343180b5abfa80bfdf97dd957acc0c306c79ee80e85e0477dd"
+      "bytes": 294686,
+      "sha256": "2613b6e0c540c68c63431716dbe37c5288604ab6d7bf188adacef4fae4bc2987"
     },
     {
       "path": "assets/hunt-for-me-translation.png",
-      "bytes": 113394,
-      "sha256": "0bdd43548cdd33d937e75f01226fa30afed6925dc21c1f9123b0e1678d29ba5a"
+      "bytes": 103424,
+      "sha256": "f67766ca8e3c18b4c6290b3cabccdc06373eee48a68eef6972681936bbb32de7"
     },
     {
       "path": "assets/isekai-balanced.gif",
-      "bytes": 814838,
-      "sha256": "54eabbef176f02f8c908da6de696330b85c2ff960e6589159c7ea533c11fa982"
+      "bytes": 827131,
+      "sha256": "05e4c75e40ab5ff90b40f14866bd39480fc2acd3a8da0192b8c4e50aece44e7d"
     },
     {
       "path": "assets/isekai-balanced.png",
-      "bytes": 320884,
-      "sha256": "3ec2e75a38d0a239ace389ab6f8f29daeb62cb71442453822eede412f1ec1bc0"
+      "bytes": 308128,
+      "sha256": "cab95892be0322132ab500bb32b9d8c1cdde77245d181f5ead5a0ff01af52cca"
     },
     {
       "path": "assets/isekai-camera.gif",
-      "bytes": 813446,
-      "sha256": "901465b4c261d5d91be631eea33bb6033461a58f67bfb7728a8067c1cbbe8cc5"
+      "bytes": 815096,
+      "sha256": "86d6bfe407cbfe5389146bd25dc7fc72566dd7d0c64d0f97f99936fa3dd15ec6"
     },
     {
       "path": "assets/isekai-camera.png",
-      "bytes": 321377,
-      "sha256": "b95a71c36358c2be6e2e3736c4d19455d8d014acea2d9a249878adeb94041323"
+      "bytes": 308772,
+      "sha256": "05a9b335598656c00d675eaf3448cc8bf67c52ada9a93f539ac65feb67dd28bc"
     },
     {
       "path": "assets/isekai-quests.gif",
-      "bytes": 815161,
-      "sha256": "0b938bd033679ac577dbe7675f6487111b53a1431d6f6fb8687da66269cad407"
+      "bytes": 829877,
+      "sha256": "fa7c71de854a3ff0a21ee1143c133bf71886416012943d2ea42b8176bbd9fbd5"
     },
     {
       "path": "assets/isekai-quests.png",
-      "bytes": 323548,
-      "sha256": "dcda7d2b54b568dcc4da975c0f1b3d60eeccab12cd2e7280566c30f02258ac73"
+      "bytes": 308881,
+      "sha256": "f8d0d7c90ca35221dce95c494e9badc56d5a0f8641802d6b9edca5bc1ab1cd82"
     },
     {
       "path": "assets/nice-bill-tab-translation.png",
-      "bytes": 205886,
-      "sha256": "867110d62ce339474bf607a8ebe5b52539c72f47c04ac031d22584df61bc7c8d"
+      "bytes": 197557,
+      "sha256": "3e3af98cd09374d76697af0c89b272def4a12e75fc14f5e653009f4f30c5564e"
     },
     {
       "path": "assets/post-isekai-collection.png",
-      "bytes": 164351,
-      "sha256": "92f0fe7873113247d1092ebbb70d4727b50a68d0c087ceddf7d97c492a98c65c"
+      "bytes": 161376,
+      "sha256": "9fcb86577402a02e1fc1b96223f691e987a89d058aa217c73e38104bced44cd5"
     },
     {
       "path": "assets/qualitybuilder-translation.png",
-      "bytes": 279116,
-      "sha256": "54ec7f182dba9ad626c5de181915461d3a56344ded9c54c3331e89868265be68"
+      "bytes": 271372,
+      "sha256": "f1a1c5f8e60cc2a22133b76a24df1b370e44d64b6a90859081ff6a6767e17dfb"
     },
     {
       "path": "assets/rimsaves-translation.png",
-      "bytes": 100888,
-      "sha256": "43e300e85b470593ff8cbab2a02909eeb6338f3fb8d42dcb886c427f67329885"
+      "bytes": 90526,
+      "sha256": "2830a7d8f0fdf4a8b5de2b44ca16b65e2f03ce7c96b93fa0195ae470e3bf71cc"
+    },
+    {
+      "path": "assets/section-compatibility-ru-centered.png",
+      "bytes": 22472,
+      "sha256": "3f9ee29698d60d4791a29a7c811a4e17d8d8923f9e188caf433d48779886b5f1"
     },
     {
       "path": "assets/section-compatibility-ru.png",
-      "bytes": 31012,
-      "sha256": "86c28f1a9fa3e37ed9bef58a3a29b74aebe6920a8b70cba8e0be7b0f69578f2a"
+      "bytes": 22586,
+      "sha256": "188b73485165fdad9c3d893964f043b58a5fc9f69a4e7227ab18abf0a046e843"
     },
     {
       "path": "assets/section-compatibility.png",
-      "bytes": 30366,
-      "sha256": "998435351477d87909d12091363c4c81a2ad07c7187df758777062e973c15e74"
+      "bytes": 22152,
+      "sha256": "4d002fa75a6ed33a0a084892c12c2131ff80bfce51672ca21f1d3c62f6278cdf"
+    },
+    {
+      "path": "assets/section-features-ru-centered.png",
+      "bytes": 21059,
+      "sha256": "c540f9797023c5d4113b910bab490c2e1512b66333192a623adcd33c59dea1b1"
     },
     {
       "path": "assets/section-features-ru.png",
-      "bytes": 29283,
-      "sha256": "5a55b5357ccd6787054b269502957c7bb9cc2204279a6c743d90ff90a8720cf7"
+      "bytes": 21248,
+      "sha256": "4610ddecc173ade2e9b430bebda4050f90603a80e0e066407afbf51d1b4b94e2"
     },
     {
       "path": "assets/section-features.png",
-      "bytes": 29041,
-      "sha256": "1d0a0c707386b7e9672581e582b5ac1bec2aee50eafa70d0077fe96d3597abf0"
+      "bytes": 20607,
+      "sha256": "7ea9d087661158a22405f5abc9c9f6db9b1d1192a7761502da2811cec7360858"
+    },
+    {
+      "path": "assets/section-feedback-ru-centered.png",
+      "bytes": 23407,
+      "sha256": "7ec33936b3d5452d7409d10d402613a96a00e87d1b7f517b999124723cee08eb"
     },
     {
       "path": "assets/section-feedback-ru.png",
-      "bytes": 31342,
-      "sha256": "a7fbf2edfda15e3a472aacbd885991e0678bc519e12cd57f94581bf6600c5236"
+      "bytes": 23495,
+      "sha256": "7f876462bb5006b76faf83745c8d4443ad321385749206bda6c8d566328798c3"
     },
     {
       "path": "assets/section-feedback.png",
-      "bytes": 29396,
-      "sha256": "6b887632085189525fcca14b8b9cea0e695a179008f85cdfa08a347b556061ab"
+      "bytes": 20944,
+      "sha256": "e2c9590b49681951bec3ec559cf038af629de74e8ed056430a34db2ca3b8fb12"
+    },
+    {
+      "path": "assets/section-how-to-use-ru-centered.png",
+      "bytes": 24279,
+      "sha256": "7f33d5363cf575f1f4ca914ceb26456d76510fdf019f6abaeeb5ebb81d5b0514"
     },
     {
       "path": "assets/section-how-to-use-ru.png",
-      "bytes": 32774,
-      "sha256": "a1799bc9a47df079d768f513d220c0137312b4d8b94e4e6091f09257bc30556d"
+      "bytes": 24657,
+      "sha256": "7119832144b14d38841c190ced8157b7157fcdee30971ed87d389863c83d66da"
     },
     {
       "path": "assets/section-how-to-use.png",
-      "bytes": 29820,
-      "sha256": "18aa48e984de87310876647c4d52eb6b62fc8f832c0bcdb39bdc6ed7c33f0613"
+      "bytes": 21543,
+      "sha256": "ab9fc3dc6e302ef77c76e5869b95beaae345c7991d8acfd46c05d24194155710"
     },
     {
       "path": "assets/simple-camera-setting-translation.gif",
-      "bytes": 851945,
-      "sha256": "040efee77448b4fe7cd2c2f71492f52b4aa8c3035720f7e27eac10881ffb89fd"
+      "bytes": 860518,
+      "sha256": "a7c58af3ef928ee45cfc2d58bfb013cbe27755c1d858ce79a03a14f98bc45cc8"
     },
     {
       "path": "assets/simple-camera-setting-translation.png",
-      "bytes": 770912,
-      "sha256": "5b69a40f8ffa136f0138a5e2891777a080678fe91f082a2390e3541cd6150af3"
+      "bytes": 771707,
+      "sha256": "f8a1ba1f2502a8b1488890d4241fff79d83e4a1598367a8a7ce629bcfcebc89b"
     },
     {
       "path": "assets/SOURCES.md",
@@ -175,43 +205,43 @@
     },
     {
       "path": "assets/star-sky-banner.png",
-      "bytes": 132354,
-      "sha256": "4bf41a546a1bdaaaa5851c71ba4c524098d39b5d3cc97a56dae64eba53f1f23d"
+      "bytes": 132676,
+      "sha256": "b4f37d9268885668ac5cf1794981365861fb892cb71b3791bb65f53669267b1e"
     },
     {
       "path": "assets/star-sky-boosty.png",
-      "bytes": 319984,
-      "sha256": "b9584fc79b785ec3af36bb5bb35db460bf6766e3c92fe963780e00be703aa633"
+      "bytes": 320870,
+      "sha256": "df1ade8bcec42895cbc2ace7caf24612c9914e6039fbd8fe11ddb9ba16784364"
     },
     {
       "path": "assets/star-sky-github-social.png",
-      "bytes": 83424,
-      "sha256": "c36682fc33526b6cb1a77ea316e42db1c3ccf6b78fb641d7dd37bb4d8b5683d2"
+      "bytes": 83633,
+      "sha256": "ccda8d9be4c5dcfb77fba51470ab6f938d0cffb4ed3af2b188314c3740045fa3"
     },
     {
       "path": "assets/tier-constellation.png",
-      "bytes": 82635,
-      "sha256": "8fb4fa7666cf1c9b17ef0fdb02d5e368d4a0a54a58bfb1c1953f4d99e8de57fc"
+      "bytes": 78074,
+      "sha256": "1f84ba11e8997f7c8d96a257c21d34056de85f21d7857226bef8c284a0bf71e1"
     },
     {
       "path": "assets/tier-spark.png",
-      "bytes": 79183,
-      "sha256": "14aeab308d57415ff8373a8f0a45e08fb6cfe5ac3336499f0f92ec423993c85b"
+      "bytes": 74580,
+      "sha256": "7ea655d8a152ae7798ca011f50b1452f11d3083c836926fb05dc973f57cb8619"
     },
     {
       "path": "assets/tier-star.png",
-      "bytes": 79763,
-      "sha256": "5ed677efadee03db117eed963600b35c2224195492606d287d5a20670241ea77"
+      "bytes": 75235,
+      "sha256": "04564bba0ab445a8ee950be5f3677ebfdb02000cfffdd0fa23b6d5a0e335687c"
     },
     {
       "path": "assets/useful-marks-translation.png",
-      "bytes": 494464,
-      "sha256": "96983d3e4761baaaa74d71b844225a7bf499921c39f9b04a36ad110ec37ea734"
+      "bytes": 489679,
+      "sha256": "3c6f1c341ca24e58c85d9903a55fe69b9f170f77ecb12dfdc36d6d800695a719"
     },
     {
       "path": "assets/visible-raid-points-translation.png",
-      "bytes": 416073,
-      "sha256": "88653586eb56627c5e41f3e79afb35807e5982214395492025300b66df220b63"
+      "bytes": 406638,
+      "sha256": "eb02f96b25f5cc0164f4ac89138a234628d0fad2bf3815a0e91b629b86c67462"
     },
     {
       "path": "README.md",
