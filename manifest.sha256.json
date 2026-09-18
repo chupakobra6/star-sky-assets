@@ -94,6 +94,11 @@
       "sha256": "f8d0d7c90ca35221dce95c494e9badc56d5a0f8641802d6b9edca5bc1ab1cd82"
     },
     {
+      "path": "assets/mythic-ages-megafauna-bestiary-translation.png",
+      "bytes": 487152,
+      "sha256": "5ca2b7ef6e46c88796f31885f363091443a5a5fe61436d1a406359b206226276"
+    },
+    {
       "path": "assets/nice-bill-tab-translation.png",
       "bytes": 197557,
       "sha256": "3e3af98cd09374d76697af0c89b272def4a12e75fc14f5e653009f4f30c5564e"
@@ -302,6 +307,11 @@
       "path": "support/steam/3803465507/index.html",
       "bytes": 30251,
       "sha256": "3803ff0d9b40743819a658d3f3cc846ac2c24e9f6830d22d793588b820526c17"
+    },
+    {
+      "path": "support/steam/3803697838/index.html",
+      "bytes": 30251,
+      "sha256": "1ec1818d9331041b0e152b54956dee9758668ae711c5549f3cf224110b51134d"
     }
   ]
 }
