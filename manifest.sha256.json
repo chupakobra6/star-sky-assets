@@ -14,6 +14,11 @@
       "sha256": "3751e11b9e7af74c879b917886c8a541cb99659b48d714a9a4bcb72db6cabfde"
     },
     {
+      "path": "assets/bio-tab-plus-translation.png",
+      "bytes": 288678,
+      "sha256": "d184aafd78cb0417fac001febf66384dc9100b68d4f69671e20b16a8eeace0ab"
+    },
+    {
       "path": "assets/boosty-support.png",
       "bytes": 37304,
       "sha256": "2ce498ccc2c16fb5b9a6f65c6f6cc1d9609bf369d886fb1fb9546f1e4b9242ef"
@@ -44,6 +49,11 @@
       "sha256": "3711a47d8d929a45fe2a8ca0978501d4416e65e6b218371d58224b61ae19c6cc"
     },
     {
+      "path": "assets/collection-presets.png",
+      "bytes": 425107,
+      "sha256": "80d1feffcb8d70c4a3bff540ff49f19ab74120e8d95f7dad1e7f0101d0f9645d"
+    },
+    {
       "path": "assets/collection-translations.png",
       "bytes": 476149,
       "sha256": "77e213850820f8895f92188a093f79041eb07a7ea52c051060ca940843f1476b"
@@ -59,6 +69,11 @@
       "sha256": "f9ec368d72b093794b892e6895728ab8000f391aa9bb17318da302d4150b49a8"
     },
     {
+      "path": "assets/enhanced-carrying-capacity-translation.png",
+      "bytes": 98893,
+      "sha256": "3e15fc7663e22f827500040bfd27b37ae187253902d698db6553f0c27b63292f"
+    },
+    {
       "path": "assets/go-explore-translation.png",
       "bytes": 480714,
       "sha256": "ba42aa00dc3334f8f14394550c909c84a2de6821226a2483abacbeea1152e147"
@@ -67,6 +82,16 @@
       "path": "assets/goodwill-preview-translation.png",
       "bytes": 294686,
       "sha256": "2613b6e0c540c68c63431716dbe37c5288604ab6d7bf188adacef4fae4bc2987"
+    },
+    {
+      "path": "assets/gravship-cutscene-speed-translation.png",
+      "bytes": 365759,
+      "sha256": "b829bc019961738e7b1cd639783d946bb3a8cfac1f610fc4a8a2698b62696d2d"
+    },
+    {
+      "path": "assets/house-ignivar-translation.png",
+      "bytes": 274102,
+      "sha256": "a20713c8fbbed479074a67d9d2a807c35bcfe8d07a8a735803d43c115fcb3870"
     },
     {
       "path": "assets/hunt-for-me-translation.png",
@@ -144,6 +169,11 @@
       "sha256": "2830a7d8f0fdf4a8b5de2b44ca16b65e2f03ce7c96b93fa0195ae470e3bf71cc"
     },
     {
+      "path": "assets/seamless-doors-translation.png",
+      "bytes": 468415,
+      "sha256": "865517e32073b44ad93807bdb60149849c1d3261fadee6b33a0dca2b0dc656e2"
+    },
+    {
       "path": "assets/section-compatibility-ru.png",
       "bytes": 22482,
       "sha256": "36e9b726c8c2e1d07095fa2cfbe8bfcc460e5e39cc06d02625056dedfa63739b"
@@ -182,6 +212,11 @@
       "path": "assets/section-how-to-use.png",
       "bytes": 21308,
       "sha256": "ca2b6f13595e50ab55a014a22f3ad18b6bf4c9a137711f257c322d74287b9347"
+    },
+    {
+      "path": "assets/simple-baby-carry-translation.png",
+      "bytes": 353499,
+      "sha256": "1264fe5a3cf48c18c77fd23ba0888acfb91967938f8a6f8f16e815e94749b8f1"
     },
     {
       "path": "assets/simple-camera-setting-translation.gif",
@@ -362,6 +397,41 @@
       "path": "support/steam/3803878938/index.html",
       "bytes": 30251,
       "sha256": "fb24961518c6f2c7f91c7a59d8e51e014c09024c0029b797c29796548c9e4043"
+    },
+    {
+      "path": "support/steam/3804220746/index.html",
+      "bytes": 30251,
+      "sha256": "b8cc76c30cfd155ba52e9967b8760de5736cedd344c293e2474936fc461f17a8"
+    },
+    {
+      "path": "support/steam/3804220749/index.html",
+      "bytes": 30251,
+      "sha256": "3d1f2eff652164d663aac4e87926fb4b8754b78ffa61b55087d35f6aa479a100"
+    },
+    {
+      "path": "support/steam/3804220755/index.html",
+      "bytes": 30251,
+      "sha256": "9735a86042781f3c350bf30de21d4cede5ec50c221966de804b536c846603bfa"
+    },
+    {
+      "path": "support/steam/3804220761/index.html",
+      "bytes": 30251,
+      "sha256": "257ab9fbaa305a94a923ada576a34eba79c988c36fee74e59655640c767910da"
+    },
+    {
+      "path": "support/steam/3804220769/index.html",
+      "bytes": 30251,
+      "sha256": "b02dd9919347b6e6761f577f3a3a8c9aa4802ba4c91d4795ef8d583757c109d5"
+    },
+    {
+      "path": "support/steam/3804220772/index.html",
+      "bytes": 30251,
+      "sha256": "0516e831844f6dbaaffcb695161b7499d1fcfdad1b1be258faf1916d5d87630a"
+    },
+    {
+      "path": "support/steam/3804220779/index.html",
+      "bytes": 30251,
+      "sha256": "10c0b6522829c7b049d30fc3db2b146b7caf73fb9d890ca693a99203a3f9be98"
     }
   ]
 }
