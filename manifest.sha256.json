@@ -44,6 +44,16 @@
       "sha256": "d5d927367f74847211fdef30396fc0606b022db40c76b0752335997f4faf8c01"
     },
     {
+      "path": "assets/character-editor-fixes.png",
+      "bytes": 39038,
+      "sha256": "f47fcac1ba7678b11278fc4d0b757ad9f97b3f8559913bcb7d186a33268f2f9b"
+    },
+    {
+      "path": "assets/character-editor-translation.png",
+      "bytes": 165656,
+      "sha256": "1d551fac2b3b67ee3d60c0b3a845a44ab4d4287bc658534445b6ce4dc4f0af4e"
+    },
+    {
       "path": "assets/collection-mods.png",
       "bytes": 437127,
       "sha256": "3711a47d8d929a45fe2a8ca0978501d4416e65e6b218371d58224b61ae19c6cc"
@@ -89,6 +99,11 @@
       "sha256": "a20713c8fbbed479074a67d9d2a807c35bcfe8d07a8a735803d43c115fcb3870"
     },
     {
+      "path": "assets/humanoid-alien-races-translation.png",
+      "bytes": 240687,
+      "sha256": "0b74fc722c8f29aff60f4a1e2b77d78b5da393a8780591a3598cbd471d11566c"
+    },
+    {
       "path": "assets/hunt-for-me-translation.png",
       "bytes": 103424,
       "sha256": "f67766ca8e3c18b4c6290b3cabccdc06373eee48a68eef6972681936bbb32de7"
@@ -124,6 +139,11 @@
       "sha256": "f8d0d7c90ca35221dce95c494e9badc56d5a0f8641802d6b9edca5bc1ab1cd82"
     },
     {
+      "path": "assets/map-preview-translation.png",
+      "bytes": 338753,
+      "sha256": "8f3cd996852fc13b9db22ba35be818e14a4305f5ca7caf6a54a44cb7f4b7e9e1"
+    },
+    {
       "path": "assets/mythic-ages-megafauna-bestiary-translation.png",
       "bytes": 487152,
       "sha256": "5ca2b7ef6e46c88796f31885f363091443a5a5fe61436d1a406359b206226276"
@@ -157,6 +177,11 @@
       "path": "assets/qualitybuilder-translation.png",
       "bytes": 271372,
       "sha256": "f1a1c5f8e60cc2a22133b76a24df1b370e44d64b6a90859081ff6a6767e17dfb"
+    },
+    {
+      "path": "assets/rimhud-translation.png",
+      "bytes": 52170,
+      "sha256": "a2ab0f5f76b1cd2928fc48da3fba7d3ae9451ae61cce2b8e8b898b3e7bfd66ed"
     },
     {
       "path": "assets/rimsaves-translation.png",
@@ -267,6 +292,21 @@
       "path": "assets/useful-marks-translation.png",
       "bytes": 489679,
       "sha256": "3c6f1c341ca24e58c85d9903a55fe69b9f170f77ecb12dfdc36d6d800695a719"
+    },
+    {
+      "path": "assets/vanilla-expanded-framework-translation.png",
+      "bytes": 356211,
+      "sha256": "6265e37aff99f803b7b617559493f1c30e1a824944c8a25a9e78b41fe0d2a96a"
+    },
+    {
+      "path": "assets/vanilla-furniture-expanded-security-translation.png",
+      "bytes": 319824,
+      "sha256": "347895e651033ad16714d03e58b00572d9269b3ab22b77e62380fb64ef9d919d"
+    },
+    {
+      "path": "assets/vanilla-furniture-expanded-translation.png",
+      "bytes": 373408,
+      "sha256": "55de9cba3e6e281bbff8f66aa923872b87958fa9b5c334cc34b92be747cfc49f"
     },
     {
       "path": "assets/visible-raid-points-translation.png",
@@ -422,6 +462,46 @@
       "path": "support/steam/3804220779/index.html",
       "bytes": 30251,
       "sha256": "10c0b6522829c7b049d30fc3db2b146b7caf73fb9d890ca693a99203a3f9be98"
+    },
+    {
+      "path": "support/steam/3807814388/index.html",
+      "bytes": 30251,
+      "sha256": "12db932d9094b020dd06f4e748227891ff7747698b3308c6850977e0e6b292fe"
+    },
+    {
+      "path": "support/steam/3807814430/index.html",
+      "bytes": 30251,
+      "sha256": "d0dfd3da8de2adae4f95c7a803f67414c09f719e6146b36cab292b803318b781"
+    },
+    {
+      "path": "support/steam/3807814478/index.html",
+      "bytes": 30251,
+      "sha256": "21bbfea54e3a0e2f6d06ba24f2a52057a08e98059af68d1cdcc381ea42110893"
+    },
+    {
+      "path": "support/steam/3807814502/index.html",
+      "bytes": 30251,
+      "sha256": "d184e3583850ccf2a990d16bc456e2034d955c78166fda53826b8f9d26efd85e"
+    },
+    {
+      "path": "support/steam/3807814514/index.html",
+      "bytes": 30251,
+      "sha256": "1d5db359c767adaa9dc76d8fcab6d7e417f368cb6fde8293a3acc709eb002af3"
+    },
+    {
+      "path": "support/steam/3807830484/index.html",
+      "bytes": 30251,
+      "sha256": "f1cbafea49f85c0755c8d9799017a76c94976f73644051fa48e95b160eff6728"
+    },
+    {
+      "path": "support/steam/3807830501/index.html",
+      "bytes": 30251,
+      "sha256": "796b1c05e149186637be5581ca8d0a7f2c33d8e99604aebff392d20a0f907e3b"
+    },
+    {
+      "path": "support/steam/3807830515/index.html",
+      "bytes": 30251,
+      "sha256": "ebbc64ba603cf35c527651e486cca8ecf4c1f750c1ae6857deb91d9bf6e5c8f8"
     }
   ]
 }
