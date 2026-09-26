@@ -44,6 +44,11 @@
       "sha256": "d5d927367f74847211fdef30396fc0606b022db40c76b0752335997f4faf8c01"
     },
     {
+      "path": "assets/character-editor-fixes.png",
+      "bytes": 164945,
+      "sha256": "e37597c0275ea57f490e2ff3b3d5a6c90e6d1923535045c105921ee354758adf"
+    },
+    {
       "path": "assets/character-editor-translation.png",
       "bytes": 165656,
       "sha256": "1d551fac2b3b67ee3d60c0b3a845a44ab4d4287bc658534445b6ce4dc4f0af4e"
@@ -492,6 +497,11 @@
       "path": "support/steam/3807830501/index.html",
       "bytes": 30251,
       "sha256": "796b1c05e149186637be5581ca8d0a7f2c33d8e99604aebff392d20a0f907e3b"
+    },
+    {
+      "path": "support/steam/3807830515/index.html",
+      "bytes": 30251,
+      "sha256": "ebbc64ba603cf35c527651e486cca8ecf4c1f750c1ae6857deb91d9bf6e5c8f8"
     }
   ]
 }
