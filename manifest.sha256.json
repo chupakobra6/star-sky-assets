@@ -14,6 +14,16 @@
       "sha256": "3751e11b9e7af74c879b917886c8a541cb99659b48d714a9a4bcb72db6cabfde"
     },
     {
+      "path": "assets/alpha-animals-translation.png",
+      "bytes": 121312,
+      "sha256": "cf4f4af2f7d4d0d26444dcf8d3cc8c15ee5bd2153852d9db9be09dc3d698ba2b"
+    },
+    {
+      "path": "assets/alpha-genes-translation.png",
+      "bytes": 196405,
+      "sha256": "25d8b7f1981a69c4b10e6bc7cd950909ae0e8edf9d1aa74ed9c9d72e83f645d3"
+    },
+    {
       "path": "assets/bio-tab-plus-translation.png",
       "bytes": 288678,
       "sha256": "d184aafd78cb0417fac001febf66384dc9100b68d4f69671e20b16a8eeace0ab"
@@ -77,6 +87,11 @@
       "path": "assets/enhanced-carrying-capacity-translation.png",
       "bytes": 98893,
       "sha256": "3e15fc7663e22f827500040bfd27b37ae187253902d698db6553f0c27b63292f"
+    },
+    {
+      "path": "assets/geological-landforms-translation.png",
+      "bytes": 518100,
+      "sha256": "e46a328f428b40f698d02a15a0afdccc422251e75091d600b3fd542b0db9005d"
     },
     {
       "path": "assets/go-explore-translation.png",
@@ -249,6 +264,11 @@
       "sha256": "f8a1ba1f2502a8b1488890d4241fff79d83e4a1598367a8a7ce629bcfcebc89b"
     },
     {
+      "path": "assets/simple-sidearms-translation.png",
+      "bytes": 125716,
+      "sha256": "e14b23ba33a4e052a64fccf2c545f5e413114390c95812df8b80965190e581fc"
+    },
+    {
       "path": "assets/SOURCES.md",
       "bytes": 4212,
       "sha256": "7e35f00df798a5a07395c08c7d69d65682416c1cb88520c0f1f083cd6d06bbd8"
@@ -294,9 +314,24 @@
       "sha256": "3c6f1c341ca24e58c85d9903a55fe69b9f170f77ecb12dfdc36d6d800695a719"
     },
     {
+      "path": "assets/vanilla-events-expanded-translation.png",
+      "bytes": 380121,
+      "sha256": "68ff2b08dc9f52d329243c218ce47b9cb98137a7fd79bac0ddb93e430ac43f0e"
+    },
+    {
       "path": "assets/vanilla-expanded-framework-translation.png",
       "bytes": 356211,
       "sha256": "6265e37aff99f803b7b617559493f1c30e1a824944c8a25a9e78b41fe0d2a96a"
+    },
+    {
+      "path": "assets/vanilla-furniture-expanded-power-translation.png",
+      "bytes": 132189,
+      "sha256": "da7438f08295da16cc260776c154d4f413d22d0a2763add056b2efcf02bcba35"
+    },
+    {
+      "path": "assets/vanilla-furniture-expanded-props-and-decor-translation.png",
+      "bytes": 146419,
+      "sha256": "1a0ca9437716c2a472d50d1db178e52849aea92f800b5c07bb5180b12c43d562"
     },
     {
       "path": "assets/vanilla-furniture-expanded-security-translation.png",
@@ -502,6 +537,41 @@
       "path": "support/steam/3807830515/index.html",
       "bytes": 30251,
       "sha256": "ebbc64ba603cf35c527651e486cca8ecf4c1f750c1ae6857deb91d9bf6e5c8f8"
+    },
+    {
+      "path": "support/steam/3810306723/index.html",
+      "bytes": 30251,
+      "sha256": "4ab3c455422386cb1d3e09e9ef59104449b467389615ad7a5480400772b3d858"
+    },
+    {
+      "path": "support/steam/3810306734/index.html",
+      "bytes": 30251,
+      "sha256": "33c5cab0f0fc697fb6c071b08ab0063eeca60dcf108d0a6ddfeb8d5d3ec63b6f"
+    },
+    {
+      "path": "support/steam/3810306748/index.html",
+      "bytes": 30251,
+      "sha256": "3ffcc9f9db7333dee156710624c3ecef0ef2ed66163dd74177a7888790d289f5"
+    },
+    {
+      "path": "support/steam/3810306758/index.html",
+      "bytes": 30251,
+      "sha256": "beb04c066be4701714cad4ad9f1b6cc1e278468742fda6f71916386d3ed3e1cd"
+    },
+    {
+      "path": "support/steam/3810306768/index.html",
+      "bytes": 30251,
+      "sha256": "bcdafe1babf55d6ac12c672574ceee29397d813d27a1d020874f5c695318afa4"
+    },
+    {
+      "path": "support/steam/3810306776/index.html",
+      "bytes": 30251,
+      "sha256": "00991b67d25cf313f2e7fb93993497d0320110613f6a382a103fccfd192c0b24"
+    },
+    {
+      "path": "support/steam/3810306782/index.html",
+      "bytes": 30251,
+      "sha256": "ba828d082c927ae493e1d4f0564c0bff95dfc064c79708f382002a287c524721"
     }
   ]
 }
