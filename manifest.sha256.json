@@ -124,6 +124,11 @@
       "sha256": "e46a328f428b40f698d02a15a0afdccc422251e75091d600b3fd542b0db9005d"
     },
     {
+      "path": "assets/github-ru.png",
+      "bytes": 44870,
+      "sha256": "296ccc6594b5e7bfa9fa4716f297ca29a145a680c1b5dca05601240e5c93c6e8"
+    },
+    {
       "path": "assets/go-explore-translation.png",
       "bytes": 480714,
       "sha256": "ba42aa00dc3334f8f14394550c909c84a2de6821226a2483abacbeea1152e147"
@@ -277,6 +282,11 @@
       "path": "assets/section-how-to-use.png",
       "bytes": 21308,
       "sha256": "ca2b6f13595e50ab55a014a22f3ad18b6bf4c9a137711f257c322d74287b9347"
+    },
+    {
+      "path": "assets/section-translation-ru.png",
+      "bytes": 20552,
+      "sha256": "21ffadffbdee10a3edf62af99f1f5433092ce01a0fb43641aafec6327e7db7c4"
     },
     {
       "path": "assets/simple-baby-carry-translation.png",
