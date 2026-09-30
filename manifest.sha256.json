@@ -24,6 +24,36 @@
       "sha256": "25d8b7f1981a69c4b10e6bc7cd950909ae0e8edf9d1aa74ed9c9d72e83f645d3"
     },
     {
+      "path": "assets/banner-github-collection-en.png",
+      "bytes": 39434,
+      "sha256": "68db8434eb7701f66860a205330070e7c99d2759e73421e921b079bea8cc3622"
+    },
+    {
+      "path": "assets/banner-github-collection-ru.png",
+      "bytes": 41084,
+      "sha256": "8cddfb0ba99faf16e94b5c71e37a8a9ade6192785da92b2e5fc9b04416f2f0e5"
+    },
+    {
+      "path": "assets/banner-support-en.png",
+      "bytes": 66487,
+      "sha256": "f4b6b03c0c1e8f08b0528f02fe04aed9e476abacc773cf0bd6434a6ba09311f7"
+    },
+    {
+      "path": "assets/banner-support-ru.png",
+      "bytes": 67320,
+      "sha256": "5d221e667d8e0a26c2e950e3453611c4007c7b43907aca6b3d928735d3672cd9"
+    },
+    {
+      "path": "assets/banner-workshop-en.png",
+      "bytes": 46593,
+      "sha256": "b276be466e118f132d8b50f2019ad98f0df1b01b098c7c7b1b27d1fde6d148a5"
+    },
+    {
+      "path": "assets/banner-workshop-ru.png",
+      "bytes": 45120,
+      "sha256": "7fbd2cc2d0bc82afeb414729c0b59eafa7dffaa83447ce9cf41dd212e275bea1"
+    },
+    {
       "path": "assets/bio-tab-plus-translation.png",
       "bytes": 288678,
       "sha256": "d184aafd78cb0417fac001febf66384dc9100b68d4f69671e20b16a8eeace0ab"
