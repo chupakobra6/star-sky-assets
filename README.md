@@ -2,12 +2,14 @@
 
 # Star Sky Assets
 
-Shared Star Sky artwork: brand graphics, mod covers, reusable section headings and support banners.
+Artwork for Star Sky Mods: mod covers, shared banners, section headings and source files
 
-[Browse the RimWorld mods](https://github.com/chupakobra6/star-sky-rimworld-mods) or find them on [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100).
+[Browse the RimWorld mods](https://github.com/chupakobra6/star-sky-rimworld-mods) or explore the [Steam Workshop](https://steamcommunity.com/id/chupakobra6/myworkshopfiles/?appid=294100)
 
-[![Support on Boosty](assets/button-support.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
+[![Support Star Sky Mods on Boosty](assets/banner-support-en.png)](https://boosty.to/chupakobra6?utm_source=github&utm_medium=repository&utm_campaign=star_sky_mods&utm_content=readme&utm_term=support)
 
-The illustrations retain their original owners’ rights. Code licenses do not apply to third-party artwork. [Sources and notices](assets/SOURCES.md).
+## Sources and rights
 
-Star Sky Mods branding has separate terms: you may display its name and logo to refer to our work, without implying that your work is official or endorsed by us.
+The illustrations retain their original owners’ rights; code licenses do not apply to third-party artwork. See [sources and notices](assets/SOURCES.md)
+
+You may display the Star Sky Mods name and logo to refer to this work without implying an official release or endorsement
