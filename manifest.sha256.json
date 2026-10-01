@@ -9,6 +9,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "assets/achtung-translation.png",
+      "bytes": 501549,
+      "sha256": "c3f00209447aa707e219678f0060f281a502227d46311840405ea2c3837e3d12"
+    },
+    {
       "path": "assets/adaptive-storage-framework-translation.png",
       "bytes": 383217,
       "sha256": "3751e11b9e7af74c879b917886c8a541cb99659b48d714a9a4bcb72db6cabfde"
@@ -52,6 +57,16 @@
       "path": "assets/banner-workshop-ru.png",
       "bytes": 45120,
       "sha256": "7fbd2cc2d0bc82afeb414729c0b59eafa7dffaa83447ce9cf41dd212e275bea1"
+    },
+    {
+      "path": "assets/big-and-small-framework-translation.png",
+      "bytes": 418309,
+      "sha256": "6d40794a2b08abb52d9776425bb499d39503e17590be47ecdeec4f79cbee8ce6"
+    },
+    {
+      "path": "assets/big-and-small-genes-translation.png",
+      "bytes": 470472,
+      "sha256": "6a3c84465bc5ce3379512d0fc433cf8b10a1a3bc2924b98fd31a1ccc12938085"
     },
     {
       "path": "assets/bio-tab-plus-translation.png",
@@ -117,6 +132,11 @@
       "path": "assets/enhanced-carrying-capacity-translation.png",
       "bytes": 98893,
       "sha256": "3e15fc7663e22f827500040bfd27b37ae187253902d698db6553f0c27b63292f"
+    },
+    {
+      "path": "assets/facial-animation-translation.gif",
+      "bytes": 207707,
+      "sha256": "ada3020c0618a99f2c9a4e37adf6370a1231353590be7fbec7b50d4b3e7d25ee"
     },
     {
       "path": "assets/geological-landforms-translation.png",
@@ -364,6 +384,16 @@
       "sha256": "6265e37aff99f803b7b617559493f1c30e1a824944c8a25a9e78b41fe0d2a96a"
     },
     {
+      "path": "assets/vanilla-factions-expanded-classical-translation.png",
+      "bytes": 358595,
+      "sha256": "675c448c095f11a431af1e5771f03cc250ec4c8c4fbabeeae7ad2b1a243e04cd"
+    },
+    {
+      "path": "assets/vanilla-fishing-expanded-translation.png",
+      "bytes": 131708,
+      "sha256": "1090011a05b5508e26004cbc3e47fa887d924c90d7c84f4ddd580c26a4405f07"
+    },
+    {
       "path": "assets/vanilla-furniture-expanded-power-translation.png",
       "bytes": 132189,
       "sha256": "da7438f08295da16cc260776c154d4f413d22d0a2763add056b2efcf02bcba35"
@@ -382,6 +412,11 @@
       "path": "assets/vanilla-furniture-expanded-translation.png",
       "bytes": 373408,
       "sha256": "55de9cba3e6e281bbff8f66aa923872b87958fa9b5c334cc34b92be747cfc49f"
+    },
+    {
+      "path": "assets/vanilla-traits-expanded-translation.png",
+      "bytes": 173100,
+      "sha256": "e7c00c70b4f607d19dd88448aa3846a1e2af558c18174a42ab5797310a48514a"
     },
     {
       "path": "assets/visible-raid-points-translation.png",
@@ -612,6 +647,41 @@
       "path": "support/steam/3810306782/index.html",
       "bytes": 30251,
       "sha256": "ba828d082c927ae493e1d4f0564c0bff95dfc064c79708f382002a287c524721"
+    },
+    {
+      "path": "support/steam/3811275239/index.html",
+      "bytes": 30251,
+      "sha256": "dc66956e463fa1f08f218b699d86a5aa061c73e90b995fc77a36dec94caa3f36"
+    },
+    {
+      "path": "support/steam/3811275241/index.html",
+      "bytes": 30251,
+      "sha256": "71eb10933cc928ef16895efddd96a05edb4c8b52738566b63136121db27b98ce"
+    },
+    {
+      "path": "support/steam/3811275244/index.html",
+      "bytes": 30251,
+      "sha256": "e6c9bb05b9c2ea9cf6608ac34f54a35b3b55261346ee732507af71346dbcb5d5"
+    },
+    {
+      "path": "support/steam/3811275250/index.html",
+      "bytes": 30251,
+      "sha256": "5f48aa83a1daf511216bb367a41f0bd13b25abd450af8e8fecbf2901558900d0"
+    },
+    {
+      "path": "support/steam/3811275253/index.html",
+      "bytes": 30251,
+      "sha256": "980830236ad9fc2f640fdf143acac3043497b0c36437e372c653bc4f0d1e7d9c"
+    },
+    {
+      "path": "support/steam/3811275257/index.html",
+      "bytes": 30251,
+      "sha256": "5ea12099fff13a466f3c4c1100027d7951488b4e0de6c76dc38ba76b2c1b4832"
+    },
+    {
+      "path": "support/steam/3811275263/index.html",
+      "bytes": 30251,
+      "sha256": "1baaf3640eea3e3e394502407486e216d273cd9dcc7900611733eb4e7176f717"
     }
   ]
 }
