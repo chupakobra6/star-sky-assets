@@ -144,6 +144,11 @@
       "sha256": "e46a328f428b40f698d02a15a0afdccc422251e75091d600b3fd542b0db9005d"
     },
     {
+      "path": "assets/github-en.png",
+      "bytes": 38987,
+      "sha256": "6e965620e0bbe8a4cb1e06ac3de49db418a634dd305b24bcf7c8e8683ccb3419"
+    },
+    {
       "path": "assets/github-ru.png",
       "bytes": 44870,
       "sha256": "296ccc6594b5e7bfa9fa4716f297ca29a145a680c1b5dca05601240e5c93c6e8"
