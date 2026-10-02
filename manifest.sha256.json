@@ -174,6 +174,16 @@
       "sha256": "a20713c8fbbed479074a67d9d2a807c35bcfe8d07a8a735803d43c115fcb3870"
     },
     {
+      "path": "assets/house-van-illa-fixes.png",
+      "bytes": 322916,
+      "sha256": "2819bc3a2feaec91835b77307d110fce0653d40d9542f90e42b7e95b98e43ac6"
+    },
+    {
+      "path": "assets/house-van-illa-translation.png",
+      "bytes": 345801,
+      "sha256": "37046d82dfc13a5417d0dbf95374a912f0e27af529301bdcaf7a40d56027e4d3"
+    },
+    {
       "path": "assets/humanoid-alien-races-translation.png",
       "bytes": 240687,
       "sha256": "0b74fc722c8f29aff60f4a1e2b77d78b5da393a8780591a3598cbd471d11566c"
@@ -687,6 +697,16 @@
       "path": "support/steam/3811275263/index.html",
       "bytes": 30251,
       "sha256": "1baaf3640eea3e3e394502407486e216d273cd9dcc7900611733eb4e7176f717"
+    },
+    {
+      "path": "support/steam/3811881608/index.html",
+      "bytes": 30251,
+      "sha256": "769df081c5f2e2ccd4e01baf4740cc0454b117e5f59ca6fede214166cfddf36c"
+    },
+    {
+      "path": "support/steam/3811902590/index.html",
+      "bytes": 30251,
+      "sha256": "9aa432811a780e387967ed426a807464cad01c6b81577a47cef20e6d3344d889"
     }
   ]
 }
