@@ -29,6 +29,11 @@
       "sha256": "25d8b7f1981a69c4b10e6bc7cd950909ae0e8edf9d1aa74ed9c9d72e83f645d3"
     },
     {
+      "path": "assets/alpha-mechs-translation.png",
+      "bytes": 298732,
+      "sha256": "26f730cf3bc66ebc2c618e500f7efb31c2bb2817572cbcc087c5ad4e151749bc"
+    },
+    {
       "path": "assets/banner-github-collection-en.png",
       "bytes": 39434,
       "sha256": "68db8434eb7701f66860a205330070e7c99d2759e73421e921b079bea8cc3622"
@@ -127,6 +132,11 @@
       "path": "assets/dawn-of-a-new-day-translation.png",
       "bytes": 508166,
       "sha256": "f9ec368d72b093794b892e6895728ab8000f391aa9bb17318da302d4150b49a8"
+    },
+    {
+      "path": "assets/ebsg-framework-translation.png",
+      "bytes": 149787,
+      "sha256": "c056b76ef27a2b3ae92a402d7a6de12bc52e6f88297e3ff7b999302d03ddc511"
     },
     {
       "path": "assets/enhanced-carrying-capacity-translation.png",
@@ -264,6 +274,11 @@
       "sha256": "f1a1c5f8e60cc2a22133b76a24df1b370e44d64b6a90859081ff6a6767e17dfb"
     },
     {
+      "path": "assets/replace-stuff-continued-translation.png",
+      "bytes": 275727,
+      "sha256": "d812e10789d2f700bf7fb0838552c7f6b92189ce25ddcefa05fa56c475b4dd12"
+    },
+    {
       "path": "assets/rimhud-translation.png",
       "bytes": 52170,
       "sha256": "a2ab0f5f76b1cd2928fc48da3fba7d3ae9451ae61cce2b8e8b898b3e7bfd66ed"
@@ -369,6 +384,11 @@
       "sha256": "220f4e9f75d2856e32fd7fd39c6b593d94ad2b74b0857ded4636933affddd670"
     },
     {
+      "path": "assets/the-generator-translation.png",
+      "bytes": 481585,
+      "sha256": "5257fb603f187807cb7da3c4da1695c634420d6eb7275db4cf1306345f22e3f8"
+    },
+    {
       "path": "assets/tier-constellation.png",
       "bytes": 79912,
       "sha256": "c63aa89d772e39453d183936b4201af9b1bc99911245c75addd1b2afd16ff33b"
@@ -429,6 +449,11 @@
       "sha256": "55de9cba3e6e281bbff8f66aa923872b87958fa9b5c334cc34b92be747cfc49f"
     },
     {
+      "path": "assets/vanilla-landmarks-translation.png",
+      "bytes": 531522,
+      "sha256": "7015ea0cb9a18ed0e4ad62759b09014835f61f02117cf0cd5bfbaedf055e90b3"
+    },
+    {
       "path": "assets/vanilla-traits-expanded-translation.png",
       "bytes": 173100,
       "sha256": "e7c00c70b4f607d19dd88448aa3846a1e2af558c18174a42ab5797310a48514a"
@@ -437,6 +462,16 @@
       "path": "assets/visible-raid-points-translation.png",
       "bytes": 406638,
       "sha256": "eb02f96b25f5cc0164f4ac89138a234628d0fad2bf3815a0e91b629b86c67462"
+    },
+    {
+      "path": "assets/winston-waves-translation.png",
+      "bytes": 377629,
+      "sha256": "32f14e52131ca6720058e0323e4cd05a8bb809fb1632223222a35d4eac2fe71c"
+    },
+    {
+      "path": "assets/worksites-expanded-translation.png",
+      "bytes": 572456,
+      "sha256": "57111b907c7a0e97b1a642a8e402ac0abcf996d401713b5b99bbc20757e5c596"
     },
     {
       "path": "README.md",
@@ -707,6 +742,41 @@
       "path": "support/steam/3811902590/index.html",
       "bytes": 30251,
       "sha256": "9aa432811a780e387967ed426a807464cad01c6b81577a47cef20e6d3344d889"
+    },
+    {
+      "path": "support/steam/3816649292/index.html",
+      "bytes": 30251,
+      "sha256": "c6c9a902ad49b8a7440ce4ac93a2e3c489ba065ecf3db0f4999b6aa42e307fa0"
+    },
+    {
+      "path": "support/steam/3816649407/index.html",
+      "bytes": 30251,
+      "sha256": "5dc02e9d9bf8d00f2abb7ae26b3518a2c32e16524f118397fb26dabb7ee2c8bd"
+    },
+    {
+      "path": "support/steam/3816649412/index.html",
+      "bytes": 30251,
+      "sha256": "964d9a8e136044f778185c73db0eafe6054eec9aeb50ec524dfcb8dade1f0830"
+    },
+    {
+      "path": "support/steam/3816649419/index.html",
+      "bytes": 30251,
+      "sha256": "3aabed51bd983b13817ced92593a1c437322f49b19231ece1f6af38dd254a1c6"
+    },
+    {
+      "path": "support/steam/3816649423/index.html",
+      "bytes": 30251,
+      "sha256": "901a62a17e988e43b895b077074068e07e63df3c61e56b976c3d5f5dce477f6a"
+    },
+    {
+      "path": "support/steam/3816649426/index.html",
+      "bytes": 30251,
+      "sha256": "0066d7f94c2dee477b78b8ec4d2c84ac9e5f8634730246afe2c1b06bb9291b37"
+    },
+    {
+      "path": "support/steam/3816649430/index.html",
+      "bytes": 30251,
+      "sha256": "de31915aa95c0e60309d097f0aa3cd1d695612464ac8fc8b805133e6d352af4e"
     }
   ]
 }
