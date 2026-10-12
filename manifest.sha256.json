@@ -79,6 +79,16 @@
       "sha256": "d184aafd78cb0417fac001febf66384dc9100b68d4f69671e20b16a8eeace0ab"
     },
     {
+      "path": "assets/biomes-caverns-translation.png",
+      "bytes": 213800,
+      "sha256": "f8592c05f367bf1e2d83194bb5a7192a3f96d77f8a70977df4d04bd32dcbba81"
+    },
+    {
+      "path": "assets/biomes-prehistoric-translation.png",
+      "bytes": 250259,
+      "sha256": "8bfcc119a7224c4bef53e9d2a0f5c6b9ccee49cf2c43f929772d9d365e4228af"
+    },
+    {
       "path": "assets/boosty-support.png",
       "bytes": 37304,
       "sha256": "2ce498ccc2c16fb5b9a6f65c6f6cc1d9609bf369d886fb1fb9546f1e4b9242ef"
@@ -339,6 +349,11 @@
       "sha256": "21ffadffbdee10a3edf62af99f1f5433092ce01a0fb43641aafec6327e7db7c4"
     },
     {
+      "path": "assets/show-me-your-hands-translation.png",
+      "bytes": 155813,
+      "sha256": "e32aa48f9a03b0c53ef89b9ce37a0db1b02920f20ac7eb5446577420a051197c"
+    },
+    {
       "path": "assets/simple-baby-carry-translation.png",
       "bytes": 353499,
       "sha256": "1264fe5a3cf48c18c77fd23ba0888acfb91967938f8a6f8f16e815e94749b8f1"
@@ -454,6 +469,16 @@
       "sha256": "7015ea0cb9a18ed0e4ad62759b09014835f61f02117cf0cd5bfbaedf055e90b3"
     },
     {
+      "path": "assets/vanilla-races-expanded-android-translation.png",
+      "bytes": 526960,
+      "sha256": "1689e01fc8110f9fd787f1cd5d47253758254a05e4d25735c514025b7291ed52"
+    },
+    {
+      "path": "assets/vanilla-races-expanded-fungoid-translation.png",
+      "bytes": 357205,
+      "sha256": "7049cda9b5555ccded86d315308bcc513e1b2c69bc7fdcf2849e8283f9426b44"
+    },
+    {
       "path": "assets/vanilla-traits-expanded-translation.png",
       "bytes": 173100,
       "sha256": "e7c00c70b4f607d19dd88448aa3846a1e2af558c18174a42ab5797310a48514a"
@@ -472,6 +497,11 @@
       "path": "assets/worksites-expanded-translation.png",
       "bytes": 572456,
       "sha256": "57111b907c7a0e97b1a642a8e402ac0abcf996d401713b5b99bbc20757e5c596"
+    },
+    {
+      "path": "assets/xml-extensions-translation.png",
+      "bytes": 203643,
+      "sha256": "13dd5e404bc1795ddb907ac57eb8a44aed342c6ac9988ce01d80d8f658cbe567"
     },
     {
       "path": "README.md",
@@ -777,6 +807,36 @@
       "path": "support/steam/3816649430/index.html",
       "bytes": 30251,
       "sha256": "de31915aa95c0e60309d097f0aa3cd1d695612464ac8fc8b805133e6d352af4e"
+    },
+    {
+      "path": "support/steam/3818474366/index.html",
+      "bytes": 30251,
+      "sha256": "52e5b40a3051062f79ebfab5bab762e079524325b3ac9d84c202cbba10d203bf"
+    },
+    {
+      "path": "support/steam/3818475380/index.html",
+      "bytes": 30251,
+      "sha256": "6fce718e83ffaccfaf93f48589cc68e643c3536150f7ba513814f24caae09611"
+    },
+    {
+      "path": "support/steam/3818475382/index.html",
+      "bytes": 30251,
+      "sha256": "88e4e9362b32df20227874b791bccb07b17e5316c06aa7965ea3eeacf4e8af1b"
+    },
+    {
+      "path": "support/steam/3818475391/index.html",
+      "bytes": 30251,
+      "sha256": "71db5be5ce7ad5826d8bd959fcead585f96b27746b0ecf0d30e714e718f57290"
+    },
+    {
+      "path": "support/steam/3818475395/index.html",
+      "bytes": 30251,
+      "sha256": "4d96a547254c53d418d6c9a6e1e01e62698651066758764218321690817251eb"
+    },
+    {
+      "path": "support/steam/3818475407/index.html",
+      "bytes": 30251,
+      "sha256": "082232f6ec4c958610c0634991340302451769218003f255c8de826c1a20cf73"
     }
   ]
 }
