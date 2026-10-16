@@ -154,6 +154,11 @@
       "sha256": "f9ec368d72b093794b892e6895728ab8000f391aa9bb17318da302d4150b49a8"
     },
     {
+      "path": "assets/dragons-descent-translation.png",
+      "bytes": 420597,
+      "sha256": "be6661fd53deb89696244b7e2caf386cf6289bb5e67b917546567e20082e6543"
+    },
+    {
       "path": "assets/ebsg-framework-translation.png",
       "bytes": 149787,
       "sha256": "c056b76ef27a2b3ae92a402d7a6de12bc52e6f88297e3ff7b999302d03ddc511"
@@ -897,6 +902,11 @@
       "path": "support/steam/3820544688/index.html",
       "bytes": 30251,
       "sha256": "40bc1e96f2ca6b87d609480d77d8ea040420507868bc7fd2c5e9c67309638d72"
+    },
+    {
+      "path": "support/steam/3820589458/index.html",
+      "bytes": 30251,
+      "sha256": "ca99160bcf7edff4fe19db35923993fc2f8f39dff81e10d0e3ab10b58b112f51"
     }
   ]
 }
