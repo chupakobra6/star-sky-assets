@@ -84,6 +84,11 @@
       "sha256": "f8592c05f367bf1e2d83194bb5a7192a3f96d77f8a70977df4d04bd32dcbba81"
     },
     {
+      "path": "assets/biomes-core-translation.png",
+      "bytes": 380333,
+      "sha256": "42fc5d43a8420234f838230a398badfd5e03f05c1976d7086ec509e7fe51c580"
+    },
+    {
       "path": "assets/biomes-prehistoric-translation.png",
       "bytes": 250259,
       "sha256": "8bfcc119a7224c4bef53e9d2a0f5c6b9ccee49cf2c43f929772d9d365e4228af"
@@ -132,6 +137,11 @@
       "path": "assets/collection-translations.png",
       "bytes": 476149,
       "sha256": "77e213850820f8895f92188a093f79041eb07a7ea52c051060ca940843f1476b"
+    },
+    {
+      "path": "assets/colony-manager-redux-translation.png",
+      "bytes": 86616,
+      "sha256": "f31ca4592ca567ce4e50ab61892c7920d50837c631230be7aaa53f7e98ec107c"
     },
     {
       "path": "assets/common-sense-translation.png",
@@ -249,6 +259,11 @@
       "sha256": "8f3cd996852fc13b9db22ba35be818e14a4305f5ca7caf6a54a44cb7f4b7e9e1"
     },
     {
+      "path": "assets/moyo-2-translation.png",
+      "bytes": 358801,
+      "sha256": "f9ef069e28207084740cdf590f6ddc8c2088e64fb1dbc6f5bd2bb9b354ca8ba2"
+    },
+    {
       "path": "assets/mythic-ages-megafauna-bestiary-translation.png",
       "bytes": 487152,
       "sha256": "5ca2b7ef6e46c88796f31885f363091443a5a5fe61436d1a406359b206226276"
@@ -299,6 +314,11 @@
       "sha256": "2830a7d8f0fdf4a8b5de2b44ca16b65e2f03ce7c96b93fa0195ae470e3bf71cc"
     },
     {
+      "path": "assets/rimtochess-translation.png",
+      "bytes": 476850,
+      "sha256": "e96d3a862b744dd2cca2107340f736edad743a45b15510872402ea77c75a0893"
+    },
+    {
       "path": "assets/seamless-doors-translation.png",
       "bytes": 468415,
       "sha256": "865517e32073b44ad93807bdb60149849c1d3261fadee6b33a0dca2b0dc656e2"
@@ -347,6 +367,11 @@
       "path": "assets/section-translation-ru.png",
       "bytes": 20552,
       "sha256": "21ffadffbdee10a3edf62af99f1f5433092ce01a0fb43641aafec6327e7db7c4"
+    },
+    {
+      "path": "assets/settlers-translation.png",
+      "bytes": 425422,
+      "sha256": "119b2ec2cfae46fb2004ffe9226e683a6feaa20abafd0e790527b151b8fd106d"
     },
     {
       "path": "assets/show-me-your-hands-translation.png",
@@ -502,6 +527,11 @@
       "path": "assets/xml-extensions-translation.png",
       "bytes": 203643,
       "sha256": "13dd5e404bc1795ddb907ac57eb8a44aed342c6ac9988ce01d80d8f658cbe567"
+    },
+    {
+      "path": "assets/yayos-animation-continued-translation.png",
+      "bytes": 249627,
+      "sha256": "259452da7cd45279111273e82fd3a3ea4e13658e1ed98146f3c7aa0698674c2e"
     },
     {
       "path": "README.md",
@@ -837,6 +867,36 @@
       "path": "support/steam/3818475407/index.html",
       "bytes": 30251,
       "sha256": "082232f6ec4c958610c0634991340302451769218003f255c8de826c1a20cf73"
+    },
+    {
+      "path": "support/steam/3820544668/index.html",
+      "bytes": 30251,
+      "sha256": "450cff7b07ded5961c3bfe6f66b8311589aa7436320d92227766e1a2cea5df54"
+    },
+    {
+      "path": "support/steam/3820544673/index.html",
+      "bytes": 30251,
+      "sha256": "d4896f2318f9fe884e1d435d872bf71ab4a8a165c244514aae700a86f3e3f89b"
+    },
+    {
+      "path": "support/steam/3820544676/index.html",
+      "bytes": 30251,
+      "sha256": "d74dd8add14421d503f90e04db74c495f2bf9b864fade9f01e909ec46f22a66d"
+    },
+    {
+      "path": "support/steam/3820544682/index.html",
+      "bytes": 30251,
+      "sha256": "4b2a1bd8f90840f5e3e9cfe31123908b9d1688ac19f7718c053d893c6017d6e4"
+    },
+    {
+      "path": "support/steam/3820544683/index.html",
+      "bytes": 30251,
+      "sha256": "c033cc9ef4924625dda6f680c123d84a67192e4c02ea43e09363a90ddc4fff15"
+    },
+    {
+      "path": "support/steam/3820544688/index.html",
+      "bytes": 30251,
+      "sha256": "40bc1e96f2ca6b87d609480d77d8ea040420507868bc7fd2c5e9c67309638d72"
     }
   ]
 }
