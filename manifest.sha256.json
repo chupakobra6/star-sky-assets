@@ -259,6 +259,11 @@
       "sha256": "f8d0d7c90ca35221dce95c494e9badc56d5a0f8641802d6b9edca5bc1ab1cd82"
     },
     {
+      "path": "assets/keyz-allow-utilities-translation.png",
+      "bytes": 575382,
+      "sha256": "2cd8586900884fae2db909eeb6902c1ccb7291a8445c743aa1f1503fda8858b3"
+    },
+    {
       "path": "assets/map-preview-translation.png",
       "bytes": 338753,
       "sha256": "8f3cd996852fc13b9db22ba35be818e14a4305f5ca7caf6a54a44cb7f4b7e9e1"
@@ -907,6 +912,11 @@
       "path": "support/steam/3820589458/index.html",
       "bytes": 30251,
       "sha256": "ca99160bcf7edff4fe19db35923993fc2f8f39dff81e10d0e3ab10b58b112f51"
+    },
+    {
+      "path": "support/steam/3827393219/index.html",
+      "bytes": 30251,
+      "sha256": "94e62d65a38c6e85c09ca3d4afc357f1dea3f11d1a23bf8da93b57906f960b88"
     }
   ]
 }
