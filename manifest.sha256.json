@@ -194,6 +194,11 @@
       "sha256": "b15051d20001a1eaf94f05d4700eb29330cc5331ffc9a8de599dbb1c151ebda4"
     },
     {
+      "path": "assets/gas-wall-torches.png",
+      "bytes": 53492,
+      "sha256": "9cc72614b1578ee9f9880c6baf3443ecd3e7cecab3d4252df109d9ae5d449c69"
+    },
+    {
       "path": "assets/geological-landforms-translation.png",
       "bytes": 518100,
       "sha256": "e46a328f428b40f698d02a15a0afdccc422251e75091d600b3fd542b0db9005d"
@@ -937,6 +942,11 @@
       "path": "support/steam/3827393219/index.html",
       "bytes": 30251,
       "sha256": "94e62d65a38c6e85c09ca3d4afc357f1dea3f11d1a23bf8da93b57906f960b88"
+    },
+    {
+      "path": "support/steam/3829351485/index.html",
+      "bytes": 30251,
+      "sha256": "e763cf74b45918e11cd4831d5e3c85dfd063b9c34b3cd5343e853aefefcbbcb2"
     }
   ]
 }
