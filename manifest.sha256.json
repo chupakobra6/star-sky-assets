@@ -134,6 +134,11 @@
       "sha256": "1d551fac2b3b67ee3d60c0b3a845a44ab4d4287bc658534445b6ce4dc4f0af4e"
     },
     {
+      "path": "assets/collection-fixes.png",
+      "bytes": 540052,
+      "sha256": "1cc7fc93dd62e89906edcb6d5015fd6467229929e62de38dc3fb0e18e1fda2f3"
+    },
+    {
       "path": "assets/collection-mods.png",
       "bytes": 437127,
       "sha256": "3711a47d8d929a45fe2a8ca0978501d4416e65e6b218371d58224b61ae19c6cc"
@@ -967,6 +972,11 @@
       "path": "support/steam/3829381031/index.html",
       "bytes": 30251,
       "sha256": "5a431ed26fc305de49c12afb232a429320f5c8251f5c5fc73a98ad09b1668b2e"
+    },
+    {
+      "path": "support/steam/3829381035/index.html",
+      "bytes": 30251,
+      "sha256": "7cbcd4859ab2dc05c89fbb3b8367b8480987d5c13fa429fdd59f502cffbc71c3"
     }
   ]
 }
