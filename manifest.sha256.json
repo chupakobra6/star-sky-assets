@@ -190,23 +190,23 @@
     },
     {
       "path": "assets/gas-wall-torches-switching.png",
-      "bytes": 61059,
-      "sha256": "e57387b29421e9fac1de1936888f75d08756f219fbae1738cd6d64e020e22508"
+      "bytes": 67878,
+      "sha256": "bcec10855934be63b13a54cb08321b0b7f7adc4b9dcb6c1a04ddbb028df658a8"
     },
     {
       "path": "assets/gas-wall-torches-switching.svg",
-      "bytes": 78329,
-      "sha256": "2643351b7fc83aa37a976a6def528c17f86f1513f60f2c9d2abb9a0aec544db6"
+      "bytes": 90418,
+      "sha256": "3e413beef7b9c02a20f9bd13c426750ecfc2ae3e8092ae64dc4224bb71683df7"
     },
     {
       "path": "assets/gas-wall-torches-variants.png",
-      "bytes": 63850,
-      "sha256": "b390e68437fb6d2dee373ecf80d10bceb045f9a082af9350cd37d8bcc69691db"
+      "bytes": 84112,
+      "sha256": "aa03425faef94a7608a4dec54ced5513a10b5dee12b12ddb49eedb9a9a57badc"
     },
     {
       "path": "assets/gas-wall-torches-variants.svg",
-      "bytes": 59628,
-      "sha256": "cd293152998635a420d50c26e794600fc670ee103a2897a49b5027d6ae88ac7c"
+      "bytes": 85294,
+      "sha256": "20839f89e59ea8c61666915dcc6e1ad9aeaf13b8cab1cdebb7ac36e0ab6a31bb"
     },
     {
       "path": "assets/gas-wall-torches.png",
