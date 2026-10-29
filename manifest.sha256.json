@@ -174,6 +174,26 @@
       "sha256": "ada3020c0618a99f2c9a4e37adf6370a1231353590be7fbec7b50d4b3e7d25ee"
     },
     {
+      "path": "assets/gas-wall-torches-switching.png",
+      "bytes": 58362,
+      "sha256": "27986ae33684e5bbb9956e72240148b3087b157047a81d032fb3809d649921a8"
+    },
+    {
+      "path": "assets/gas-wall-torches-switching.svg",
+      "bytes": 67821,
+      "sha256": "c276c08a347584ae71a148f037e6db9ec3d27c86d04c548ed8126c7ba8b9ca48"
+    },
+    {
+      "path": "assets/gas-wall-torches-variants.png",
+      "bytes": 64572,
+      "sha256": "974a4c52ae861a7f79b8899f3ad3ceeea47250f381157e34c804e8cf70e1d139"
+    },
+    {
+      "path": "assets/gas-wall-torches-variants.svg",
+      "bytes": 57087,
+      "sha256": "b15051d20001a1eaf94f05d4700eb29330cc5331ffc9a8de599dbb1c151ebda4"
+    },
+    {
       "path": "assets/geological-landforms-translation.png",
       "bytes": 518100,
       "sha256": "e46a328f428b40f698d02a15a0afdccc422251e75091d600b3fd542b0db9005d"
