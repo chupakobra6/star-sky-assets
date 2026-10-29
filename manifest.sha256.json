@@ -125,8 +125,8 @@
     },
     {
       "path": "assets/character-editor-fixes.png",
-      "bytes": 169889,
-      "sha256": "e7045a1717bd2c899a79518b3724158ecf3deb61fc7d1033fce5a99b1ff967b6"
+      "bytes": 169894,
+      "sha256": "02d97a4a6a5bc7263d94042243c2bb7603d406afdac26647fc19612239d24e9d"
     },
     {
       "path": "assets/character-editor-translation.png",
@@ -245,8 +245,8 @@
     },
     {
       "path": "assets/house-van-illa-fixes.png",
-      "bytes": 322916,
-      "sha256": "2819bc3a2feaec91835b77307d110fce0653d40d9542f90e42b7e95b98e43ac6"
+      "bytes": 322727,
+      "sha256": "2370fce7c4b46894b3a3b763ab4ca2428f04e352c330718fe6fc43f02def836b"
     },
     {
       "path": "assets/house-van-illa-translation.png",
