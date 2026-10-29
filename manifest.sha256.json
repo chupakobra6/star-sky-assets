@@ -119,6 +119,11 @@
       "sha256": "d5d927367f74847211fdef30396fc0606b022db40c76b0752335997f4faf8c01"
     },
     {
+      "path": "assets/carrying-save-loading-fix.png",
+      "bytes": 100360,
+      "sha256": "86d8952ee15016d9e2680d7b4452654c477408ee886132f81ac8ca644ee3af20"
+    },
+    {
       "path": "assets/character-editor-fixes.png",
       "bytes": 169889,
       "sha256": "e7045a1717bd2c899a79518b3724158ecf3deb61fc7d1033fce5a99b1ff967b6"
@@ -147,6 +152,11 @@
       "path": "assets/common-sense-translation.png",
       "bytes": 269302,
       "sha256": "22c7003c957653f87e327f68d73eb55a440d76e9aa999d12e8562e157a92a3e9"
+    },
+    {
+      "path": "assets/crashed-ship-guard-fix.png",
+      "bytes": 494865,
+      "sha256": "fc286e495cf855734d6c1ac4713d0d4e3af9f96d36897812606c6e4822aa59bf"
     },
     {
       "path": "assets/dawn-of-a-new-day-translation.png",
@@ -947,6 +957,16 @@
       "path": "support/steam/3829351485/index.html",
       "bytes": 30251,
       "sha256": "e763cf74b45918e11cd4831d5e3c85dfd063b9c34b3cd5343e853aefefcbbcb2"
+    },
+    {
+      "path": "support/steam/3829381024/index.html",
+      "bytes": 30251,
+      "sha256": "f6751a51bf2fd12cef3bbfff700f48d2fe59c45dcfbadac845e19dcf304b95a1"
+    },
+    {
+      "path": "support/steam/3829381031/index.html",
+      "bytes": 30251,
+      "sha256": "5a431ed26fc305de49c12afb232a429320f5c8251f5c5fc73a98ad09b1668b2e"
     }
   ]
 }
