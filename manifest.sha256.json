@@ -334,6 +334,11 @@
       "sha256": "d368f86187c30702e884515684604b2fd631eaad72e0644303fe3fe9ad03a444"
     },
     {
+      "path": "assets/pawn-generation-fixes.png",
+      "bytes": 98608,
+      "sha256": "ea4efe0e0a6ed4d05eefb74c00011bb6f190b5acf9485ca29256e3fbb6fdb009"
+    },
+    {
       "path": "assets/performance-esmolas-translation.png",
       "bytes": 444731,
       "sha256": "cf0b814bc9fe9df2b41281d9afff6b4b7d1c9f8f44e8b0a1a94403c3fdf36000"
@@ -977,6 +982,11 @@
       "path": "support/steam/3829381035/index.html",
       "bytes": 30251,
       "sha256": "7cbcd4859ab2dc05c89fbb3b8367b8480987d5c13fa429fdd59f502cffbc71c3"
+    },
+    {
+      "path": "support/steam/3834065834/index.html",
+      "bytes": 30251,
+      "sha256": "6c69c937e74289819ef5a9beca402f82ef990c5e2ffd6ba27a504b7961b65f05"
     }
   ]
 }
