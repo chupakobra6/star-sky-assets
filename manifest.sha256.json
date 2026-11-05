@@ -79,6 +79,11 @@
       "sha256": "d184aafd78cb0417fac001febf66384dc9100b68d4f69671e20b16a8eeace0ab"
     },
     {
+      "path": "assets/biomes-caverns-fixes.png",
+      "bytes": 101181,
+      "sha256": "5a6d5a7f71c184a016e52534cc06ec6a7781dabc58e1369d1cbb20ca1f88556a"
+    },
+    {
       "path": "assets/biomes-caverns-translation.png",
       "bytes": 213800,
       "sha256": "f8592c05f367bf1e2d83194bb5a7192a3f96d77f8a70977df4d04bd32dcbba81"
@@ -312,6 +317,11 @@
       "path": "assets/moyo-2-translation.png",
       "bytes": 358801,
       "sha256": "f9ef069e28207084740cdf590f6ddc8c2088e64fb1dbc6f5bd2bb9b354ca8ba2"
+    },
+    {
+      "path": "assets/mp3-audio-bootstrap.png",
+      "bytes": 89424,
+      "sha256": "34b8c248e9d1e351cbfd7e7842a5b9f3824119a0e786a0ed156e5a06e7ff8ac5"
     },
     {
       "path": "assets/mythic-ages-megafauna-bestiary-translation.png",
@@ -987,6 +997,16 @@
       "path": "support/steam/3834065834/index.html",
       "bytes": 30251,
       "sha256": "6c69c937e74289819ef5a9beca402f82ef990c5e2ffd6ba27a504b7961b65f05"
+    },
+    {
+      "path": "support/steam/3834065836/index.html",
+      "bytes": 30251,
+      "sha256": "da3f711ff7376304c2f9d841845ba46ada11293dc431f0dacd012c4b09820c33"
+    },
+    {
+      "path": "support/steam/3834065838/index.html",
+      "bytes": 30251,
+      "sha256": "cc5f544aa4dd94a5beb6f5a105e2db9986fb428c81c5f4b12e6e1e9485617f31"
     }
   ]
 }
