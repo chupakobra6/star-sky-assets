@@ -509,6 +509,11 @@
       "sha256": "6fd8f48f57c90992259879e6d7d63523342e034ef6396511d9f7095c77626092"
     },
     {
+      "path": "assets/tribal-outfits.png",
+      "bytes": 371864,
+      "sha256": "cb10d648a4bf396ecb973384c7ba601c70be9e4c3403a5e20d0a0184b1d3bfb4"
+    },
+    {
       "path": "assets/useful-marks-translation.png",
       "bytes": 489679,
       "sha256": "3c6f1c341ca24e58c85d9903a55fe69b9f170f77ecb12dfdc36d6d800695a719"
@@ -1007,6 +1012,11 @@
       "path": "support/steam/3834065838/index.html",
       "bytes": 30251,
       "sha256": "cc5f544aa4dd94a5beb6f5a105e2db9986fb428c81c5f4b12e6e1e9485617f31"
+    },
+    {
+      "path": "support/steam/3840985633/index.html",
+      "bytes": 30251,
+      "sha256": "46677d4a320fecde4eb2e60e032d3852db743e4ddc033e09d8cc2fcc64f97922"
     }
   ]
 }
