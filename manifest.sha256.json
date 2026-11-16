@@ -509,6 +509,26 @@
       "sha256": "6fd8f48f57c90992259879e6d7d63523342e034ef6396511d9f7095c77626092"
     },
     {
+      "path": "assets/tribal-outfits-crafting.png",
+      "bytes": 97064,
+      "sha256": "82b8ef9772aba95483ed792e949b77f158c35eaee09f58511871575d37d28b03"
+    },
+    {
+      "path": "assets/tribal-outfits-crafting.svg",
+      "bytes": 94187,
+      "sha256": "3651b86f71aaead1fe00ec8b62fdc599a6e4464c7479cff210ae1618b48acf03"
+    },
+    {
+      "path": "assets/tribal-outfits-lineup.png",
+      "bytes": 224622,
+      "sha256": "c2fb8d40c042e3869b19c0064d936954dd505e0ea88b50f4de108cb540244a17"
+    },
+    {
+      "path": "assets/tribal-outfits-lineup.svg",
+      "bytes": 189197,
+      "sha256": "fdc114e88a44cf573b7721af0197f286c04e946942a0d1122fea619f67ef20ed"
+    },
+    {
       "path": "assets/tribal-outfits.png",
       "bytes": 371864,
       "sha256": "cb10d648a4bf396ecb973384c7ba601c70be9e4c3403a5e20d0a0184b1d3bfb4"
